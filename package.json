@@ -1,0 +1,35 @@
+{
+  "name": "remote-jobs-fetcher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vitorolivg/remote-jobs-fetcher.git",
+  "author": "vitorolivg <vitor.olivg@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "rimraf": "^3.0.2"
+  },
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.2",
+    "@types/express": "^4.17.13",
+    "@types/node": "^17.0.23",
+    "@typescript-eslint/eslint-plugin": "^5.18.0",
+    "@typescript-eslint/parser": "^5.18.0",
+    "eslint": "^8.12.0",
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  },
+  "engines": {
+    "node": "16.14.0"
+  },
+  "scripts": {
+    "build": "rimraf ./dist && tsc",
+    "dev": "nodemon",
+    "lint:fix": "eslint . --fix",
+    "start": "node dist/index.js"
+  }
+}
