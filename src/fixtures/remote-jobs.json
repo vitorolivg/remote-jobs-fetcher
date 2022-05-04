@@ -1,0 +1,4739 @@
+[
+  {
+    "name": "10up",
+    "technologies": [
+      "wordpress",
+      "php",
+      "sass",
+      "git",
+      "vagrant",
+      "nginx",
+      "memcache"
+    ],
+    "region": "We have employees all around the world, from across the US to the UK to South Africa to the Philippines. Most are currently located in North America, a number travel frequently, and some even work nomadically.",
+    "careersPage": "https://10up.com/careers/"
+  },
+  {
+    "name": "15Five",
+    "technologies": [
+      "backend: python",
+      "djangofrontend: django templates",
+      "reactdevops: aws",
+      "ansible"
+    ],
+    "region": "The Americas and Europe.",
+    "careersPage": "https://www.15five.com/careers/"
+  },
+  {
+    "name": "18F",
+    "technologies": [
+      "ruby",
+      "python",
+      "html",
+      "css",
+      "javascript"
+    ],
+    "region": "U.S. citizens, non-citizens who are nationals of the U.S., or people who have been admitted to the U.S. for permanent residence and hold a valid green card.",
+    "careersPage": "https://pages.18f.gov/joining-18f/open-positions/If"
+  },
+  {
+    "name": "1Password",
+    "technologies": [
+      "go",
+      "rust",
+      "react",
+      "typescript",
+      "swift",
+      "kubernetes",
+      "and many others depending on the team."
+    ],
+    "region": "Current openings are for remote positions in US, UK, and Canada.",
+    "careersPage": "https://1password.com/jobs/"
+  },
+  {
+    "name": "Ably",
+    "technologies": [
+      "we develop our tools using nodejs",
+      "ruby",
+      "golang",
+      "elixir",
+      "the open source services we operate include cassandra",
+      "postgres",
+      "elastic",
+      "influx",
+      "redis",
+      "rabbit",
+      "we make extensive use of a wide array of aws services",
+      "we host our code in git"
+    ],
+    "region": "The bulk of our engineering team is in Europe so we generally prefer candidates working from timezones that are within 3 hours of UTC (+/-).",
+    "careersPage": "http://jobs.ably.io"
+  },
+  {
+    "name": "Abstract",
+    "technologies": [
+      "python",
+      "django",
+      "postres",
+      "redis",
+      "aws lambda"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.abstractapi.com."
+  },
+  {
+    "name": "Acquia",
+    "technologies": [
+      "drupal",
+      "php",
+      "git",
+      "html",
+      "css",
+      "javascript",
+      "ruby",
+      "go",
+      "python",
+      "aws",
+      "ember",
+      "react",
+      "java"
+    ],
+    "region": "Worldwide - Acquia is an international company with office locations around the world. Remote positions are available globally.",
+    "careersPage": "https://www.acquia.com/careers/open-positions"
+  },
+  {
+    "name": "activecampaign",
+    "technologies": [
+      "our artificial intelligence finds freelance and remote jobs for you automatically"
+    ],
+    "region": "Dublin, Ireland; USA",
+    "careersPage": "https://www.activecampaign.com/about/careers#openings"
+  },
+  {
+    "name": "Adaface",
+    "technologies": [
+      "reactjs",
+      "socket.io",
+      "firebase",
+      "mysql",
+      "docker",
+      "django",
+      "mongodb"
+    ],
+    "region": "Asia",
+    "careersPage": "https://angel.co/company/adaface"
+  },
+  {
+    "name": "addstructure ",
+    "technologies": [
+      "ios",
+      "react",
+      "knockout",
+      "rails",
+      "perl",
+      "html",
+      "sql",
+      "ruby",
+      "jquery"
+    ],
+    "region": "USA",
+    "careersPage": "https://www.bazaarvoice.com/"
+  },
+  {
+    "name": "Aerolab",
+    "technologies": [
+      "development: javascript",
+      "using es7",
+      "react",
+      "node.jsdesign: sketch",
+      "invision",
+      "marvel"
+    ],
+    "region": "Latin America",
+    "careersPage": "http://careers.aerolab.co/"
+  },
+  {
+    "name": "AIM India",
+    "technologies": [
+      "excel",
+      "artificial intelligence (ai)",
+      "machine learning (ml) and many others depending on the team."
+    ],
+    "region": "Current openings are for remote positions in Malaysia, Dubia.",
+    "careersPage": "https://www.aimincorp.com/carrers.php/"
+  },
+  {
+    "name": "airtreks",
+    "technologies": [
+      "full",
+      "stack developer",
+      "travel service expert",
+      "experienced travel agent",
+      "travel ambassador"
+    ],
+    "region": "USA",
+    "careersPage": "https://tripplanner.airtreks.com/route?AFFIDAIRTREKS&DSTAIRFARE_MENU"
+  },
+  {
+    "name": "Algorand",
+    "technologies": [
+      "go",
+      "java",
+      "c/c++",
+      "c#",
+      "rust",
+      "websockets",
+      "google workspace",
+      "aws",
+      "slack",
+      "microsoft 365",
+      "freshservice",
+      "hubspot"
+    ],
+    "region": "USA",
+    "careersPage": "https://www.algorand.com/about/careers/our-jobs"
+  },
+  {
+    "name": "Algorithmia",
+    "technologies": [
+      "java (scala) microservices",
+      "mysql",
+      "kubernetes",
+      "docker"
+    ],
+    "region": "Worldwide, but we work primarily on US timezones.",
+    "careersPage": "https://algorithmia.com/about"
+  },
+  {
+    "name": "Alight Solutions",
+    "technologies": [
+      "python",
+      "ruby",
+      ".net",
+      "mssql"
+    ],
+    "region": "United States, India, Poland, and more",
+    "careersPage": "https://careers.alight.com"
+  },
+  {
+    "name": "ALLYDVM",
+    "technologies": [
+      "ruby and ror",
+      "javascript",
+      "angularjs",
+      "coffeescript",
+      "ios",
+      "android",
+      "mysql",
+      "html/css",
+      "java and spring"
+    ],
+    "region": "USA",
+    "careersPage": "https://weworkremotely.com/jobs/2867-senior-software-engineer."
+  },
+  {
+    "name": "AlphaSights>",
+    "technologies": [
+      "ruby on rails",
+      "javascript (ember",
+      "react)",
+      "postgresql",
+      "git"
+    ],
+    "region": "Our remote engineers work the same hours as our New York and London offices depending on what team they are on. We welcome people in all time zones that are willing to work in EST or GMT.",
+    "careersPage": "https://engineering.alphasights.com/#positionsWe"
+  },
+  {
+    "name": "Ambaum",
+    "technologies": [
+      "html",
+      "css",
+      "scss",
+      "javascript",
+      "jquery",
+      "react",
+      "vue",
+      "node",
+      "express",
+      "koa",
+      "php",
+      "mysql",
+      "mongodb"
+    ],
+    "region": "Worldwide. Right now we have developers in North America and Europe. Most of them are in Seattle but we also have one in Germany and two in Arizona. More are welcome.",
+    "careersPage": "https://ambaum.com/careers"
+  },
+  {
+    "name": "Andela",
+    "technologies": [
+      "java",
+      "react",
+      "ruby",
+      "javascript",
+      "python"
+    ],
+    "region": "Worldwide.",
+    "careersPage": "https://andela.com/join-andela/"
+  },
+  {
+    "name": "Anomali",
+    "technologies": [
+      "cyber threat intelligence",
+      "cyber security",
+      "open source intelligence",
+      "security analytics",
+      "siem",
+      "splunk",
+      "arcsight"
+    ],
+    "region": "- United States- United Kingdom- Singapore- Remote",
+    "careersPage": "https://jobs.lever.co/anomali"
+  },
+  {
+    "name": "Apartment Therapy",
+    "technologies": [
+      "cto scott trudeau wrote a gist about their [stack",
+      "product team",
+      "and mentions working remotely](https://gist.github.com/sstrudeau/f563dc72739e9e047de5)"
+    ],
+    "region": "US-based employees only.",
+    "careersPage": "http://www.apartmenttherapy.com/jobs."
+  },
+  {
+    "name": "Appstractor",
+    "technologies": [
+      "lamp"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.appstractor.com/careers/"
+  },
+  {
+    "name": "[argyle](https://argyle.com/) ",
+    "technologies": [
+      "kubernetes",
+      "salesforce",
+      "node.js",
+      "jest",
+      "python",
+      "go and react are some of the popular tools that argyle uses."
+    ],
+    "region": "We currently have employees from 21 different countries and counting, We are a 100% remote company hiring from around the world. **Certain job openings are for USA based citizens only.**",
+    "careersPage": "https://argyle.rippling-ats.com/"
+  },
+  {
+    "name": "Arkency",
+    "technologies": [
+      "ruby on rails",
+      "react.js",
+      "redux"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://blog.arkency.com/join-our-team/"
+  },
+  {
+    "name": "Art & Logic",
+    "technologies": [
+      "we work with an extensive range of languages and technologies.",
+      "c++",
+      "python",
+      "objective c",
+      "php",
+      "javascript",
+      "actionscript",
+      "ruby",
+      "java",
+      "c#",
+      "git"
+    ],
+    "region": "US and Canada",
+    "careersPage": "https://artandlogic.com/careers/"
+  },
+  {
+    "name": "Articulate",
+    "technologies": [
+      ".net",
+      "c#"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://en-uk.articulate.com/company/careers.php"
+  },
+  {
+    "name": "Audiense",
+    "technologies": [
+      "data mining",
+      "segmentation",
+      "python",
+      "machine learning",
+      "tableau"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://aboutus.audiense.com/careers"
+  },
+  {
+    "name": "Auth0",
+    "technologies": [
+      "current stack is node.js",
+      "mongodb",
+      "elasticsearch",
+      "coreos",
+      "docker",
+      "puppet and the service runs in aws",
+      "azure and google cloud in multiple regions.also be familiar with:",
+      "javascript",
+      "python",
+      "ruby",
+      "puppet",
+      "chef",
+      "ansible",
+      "docker",
+      "postgresql",
+      "node.js",
+      "json web tokens",
+      "oauth",
+      "openid connect"
+    ],
+    "region": "Worldwide, company offices are spread throughout the world and all open job listing offer remote.",
+    "careersPage": "https://auth0.com/jobs"
+  },
+  {
+    "name": "Automattic",
+    "technologies": [
+      "wordpress",
+      "javascript (node/react/redux)",
+      "php",
+      "spark",
+      "kafka",
+      "elasticsearch",
+      "impala/hive",
+      "mysql",
+      "java",
+      "python"
+    ],
+    "region": "Worldwide - our team members hail from all over, every continent except Antarctica (so far!) - this means [over 90 countries](https://automattic.com/map/).",
+    "careersPage": "https://automattic.com/work-with-us/."
+  },
+  {
+    "name": "Axios",
+    "technologies": [
+      "drupal",
+      "wordpress",
+      "php",
+      "git",
+      "html",
+      "css",
+      "javascript",
+      "ruby"
+    ],
+    "region": "USA - Axios team members work from home, cafes, or co-working spaces.",
+    "careersPage": "https://www.axios.com/careers/"
+  },
+  {
+    "name": "Bairesdev",
+    "technologies": [
+      "java",
+      "php",
+      ".net",
+      "sql server",
+      "python",
+      "android",
+      "angular",
+      "ios",
+      "ruby",
+      "linux",
+      "node js",
+      "react",
+      "mysql",
+      "mongodb",
+      "c++",
+      "sap",
+      "aws",
+      "joomla",
+      "oracle"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.bairesdev.com/careers/"
+  },
+  {
+    "name": "Balsamiq",
+    "technologies": [],
+    "region": "We currently have employees in the U.S. and in several European countries.",
+    "careersPage": "https://balsamiq.com/company/jobs/"
+  },
+  {
+    "name": "BandLab",
+    "technologies": [
+      "typescript",
+      "swift",
+      "kotlin",
+      "go",
+      ".net",
+      "node.js",
+      "aws/azure/gcp",
+      "serverless",
+      "and many others depending on the team."
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://apply.workable.com/bandlabtechnologies/"
+  },
+  {
+    "name": "Bandzoogle",
+    "technologies": [
+      "ror",
+      "ember.js",
+      "apis"
+    ],
+    "region": "Worldwide - Bandzoogle is remote-only.",
+    "careersPage": "https://bandzoogle.com/jobs"
+  },
+  {
+    "name": "Basecamp",
+    "technologies": [
+      "ruby",
+      "rails",
+      "coffeescript",
+      "backbone.js",
+      "memcached",
+      "mysql",
+      "s3"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://basecamp.com/about/jobs"
+  },
+  {
+    "name": "Bear Group",
+    "technologies": [
+      "drupal",
+      "magento",
+      "shopify"
+    ],
+    "region": "USA",
+    "careersPage": "https://www.beargroup.com/careers"
+  },
+  {
+    "name": "BeenVerified",
+    "technologies": [
+      "ruby",
+      "ruby on rails",
+      "go",
+      "emberjs",
+      "react",
+      "php",
+      "html",
+      "css",
+      "javascript"
+    ],
+    "region": "Worldwide - work from anywhere",
+    "careersPage": "https://www.beenverified.com/careers/"
+  },
+  {
+    "name": "Best Practical Solutions",
+    "technologies": [
+      "perl",
+      "mason",
+      "mysql/postgresql/oracle",
+      "linux based os",
+      "javascript/jquery",
+      "css"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://bestpractical.com/jobs"
+  },
+  {
+    "name": "Big Wheel Brigade",
+    "technologies": [
+      "rails",
+      "primarily",
+      "with some wordpress clients."
+    ],
+    "region": "US, currently.",
+    "careersPage": "http://omahacodeschool.com/educator"
+  },
+  {
+    "name": "Bitnami",
+    "technologies": [
+      "we ship open source apps and frameworks (wordpress",
+      "joomla",
+      "drupal",
+      "...)",
+      "we develop our tools using ruby",
+      "golang and nodejs",
+      "we host our code in git",
+      "we have a heavy bias towards deploying our services on kubernetes"
+    ],
+    "region": "We have employees all around the world, with the bulk of our engineering team in Europe, so we generally prefer candidates working from timezones that are within 3 hours of UTC (+/-).",
+    "careersPage": "https://bitnami.com/careers"
+  },
+  {
+    "name": "Bizink",
+    "technologies": [
+      "wordpress",
+      "html",
+      "css"
+    ],
+    "region": "**Worldwide**",
+    "careersPage": "https://bizinkonline.com/careers/"
+  },
+  {
+    "name": "Blameless",
+    "technologies": [
+      "python",
+      "go",
+      "node.js",
+      "react",
+      "kubernetes",
+      "docker",
+      "github"
+    ],
+    "region": "- US- CANADA- Argentina- Remote (any timezone)",
+    "careersPage": "https://www.blameless.com/careers"
+  },
+  {
+    "name": "Bluespark",
+    "technologies": [],
+    "region": "USA",
+    "careersPage": "https://www.bluespark.com/careers"
+  },
+  {
+    "name": "Brave Investments",
+    "technologies": [
+      "linux",
+      "perl",
+      "python",
+      "mysql",
+      "elasticsearch",
+      "gearman",
+      "rabbitmq",
+      "nginx",
+      "apache",
+      "memcached",
+      "aws",
+      "terraform",
+      "chef."
+    ],
+    "region": "The tech team usually works from UTC to UTC +3 timezones, but we are also flexible on moving backward or forward your working hours. Feel free to ask if in doubt!",
+    "careersPage": "https://www.linkedin.com/company/brave-investments/"
+  },
+  {
+    "name": "BriteCore",
+    "technologies": [
+      "python",
+      "sqlalchemy",
+      "pandas",
+      "django",
+      "aws (rds",
+      "s3",
+      "batch",
+      "lambdas",
+      "zappa",
+      "dynamodb)",
+      "docker",
+      "github",
+      "jenkins",
+      "vue.js",
+      "knockout"
+    ],
+    "region": "- US- Remote (any timezone)",
+    "careersPage": "https://github.com/IntuitiveWebSolutions."
+  },
+  {
+    "name": "Bugfender",
+    "technologies": [
+      "kotlin",
+      "kotlin native",
+      "swift",
+      "objectivec",
+      "angular",
+      "ionic",
+      "nest.js",
+      "yii2",
+      "laravel",
+      "aws",
+      "linux",
+      "data encryption",
+      "tensorflow",
+      "coreml"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://mobilejazz.com/jobs"
+  },
+  {
+    "name": "Bulut Yazilim",
+    "technologies": [],
+    "region": "HeadQuarters is in Istanbul,Turkey",
+    "careersPage": "https://bulutyazilim.com"
+  },
+  {
+    "name": "Cabify",
+    "technologies": [
+      "html",
+      "css",
+      "javascript",
+      "android",
+      "reactjs",
+      "react",
+      "native",
+      "go",
+      "docker + kubernetes",
+      "couchdb",
+      "cockroachdb",
+      "swift",
+      "kotlin",
+      "python and r"
+    ],
+    "region": "Cabify offers Worldwide, or \"home based\", their open vacancies can be search by [location or role](https://cabify.com/en/jobs)",
+    "careersPage": "https://cabify.com/en/jobs"
+  },
+  {
+    "name": "Calamari",
+    "technologies": [
+      "react",
+      "jquery",
+      "jsp",
+      "typescript",
+      "javascript",
+      "java",
+      "spring"
+    ],
+    "region": "Poland, 616",
+    "careersPage": "https://calamari.pl/kariera"
+  },
+  {
+    "name": "Capchase",
+    "technologies": [
+      "javascript (nodejs",
+      "reactjs and vue)",
+      "golang",
+      "docker",
+      "kubernetes",
+      "mongodb",
+      "google cloud."
+    ],
+    "region": "For technical hires, we are looking anywhere in CEST (+- 2 hours) timezone.",
+    "careersPage": "https://www.notion.so/9b9e8dbcc5a2415f9da69f1e00617f94?vcdd6935b11024b68aba4375714c7cc00"
+  },
+  {
+    "name": "Capital One",
+    "technologies": [
+      "aws",
+      "java",
+      "javascript",
+      "spring",
+      "javaee",
+      "react",
+      "git"
+    ],
+    "region": "USA",
+    "careersPage": "https://www.capitalonecareers.com/tech"
+  },
+  {
+    "name": "Cards Against Humanity",
+    "technologies": [
+      "jquery",
+      "javascript",
+      "python",
+      "nginx",
+      "css 3"
+    ],
+    "region": "USA",
+    "careersPage": "https://cah.tumblr.com/."
+  },
+  {
+    "name": "CartoDB",
+    "technologies": [
+      "cartodb has a lovely [attributions page](https://cartodb.com/attributions/) with a lot of information.| frontend  | backend | other features ||",
+      "|",
+      "|",
+      "|| leaflet  | ubuntu  | chef || wax  | postgis  | munin || jquery & plugins  | nginx  | nagios || backbone  | node  | monit || underscore  | varnish |  || codemirror  | unicorn  |  || mustache  | ruby on rails  |  ||   | redis  |  ||   | mapnik  |  ||   | cartocss  |  |"
+    ],
+    "region": "Remote friendly worldwide",
+    "careersPage": "https://cartodb.com/jobs/"
+  },
+  {
+    "name": "CartStack",
+    "technologies": [],
+    "region": "**Worldwide**",
+    "careersPage": "https://www.cartstack.com/careers/.You"
+  },
+  {
+    "name": "Celsius",
+    "technologies": [
+      "javascript",
+      "node.js",
+      "react",
+      "typescript",
+      "java",
+      "kotlin and more."
+    ],
+    "region": "The Celsius team is spread all over the world wherever the smartest minds are.",
+    "careersPage": "https://celsius.network/careers"
+  },
+  {
+    "name": "charity: water",
+    "technologies": [
+      "ruby on rails",
+      "reactjs",
+      "postgresql"
+    ],
+    "region": "* North America (with elibility to work in the USA without sponsorship)",
+    "careersPage": "https://my.hirehive.io/charity-water/jobs/38223/software-engineer-new-york"
+  },
+  {
+    "name": "Checkly",
+    "technologies": [
+      "javascript",
+      "go",
+      "vue",
+      "aws lambda",
+      "heroku",
+      "terraform",
+      "puppeteer",
+      "playwright."
+    ],
+    "region": "CET -3 / +3 timezone.",
+    "careersPage": "https://www.checklyhq.com/jobs"
+  },
+  {
+    "name": "ChefsClub ",
+    "technologies": [
+      "there are 3 ways for a customer to enjoy the benefits of chefsclub: through the ios app (swift)",
+      "android app (java) or through our web app (react). all of these projects communicate with a rest api developed with a stable version of ruby on rails and elasticsearch.there is no infrastructure team since we develop a devops culture",
+      "so we love heroku and aws services.read more about the technologies we use [here](https://stackshare.io/felipetio2/chefsclub). however",
+      "it’s much more important than have experience with technologies we use",
+      "you behave as a curious mind",
+      "enjoys learning new things quickly and understand the core concepts behind libraries and frameworks that you master."
+    ],
+    "region": "Brazil",
+    "careersPage": "https://podio.com/webforms/15229618/1020915"
+  },
+  {
+    "name": "CircleCI",
+    "technologies": [
+      "clojure",
+      "go",
+      "python"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://circleci.com/blog/how-to-get-hired-at-circleci/-"
+  },
+  {
+    "name": "CivicActions",
+    "technologies": [
+      "we choose tools that promote openness and help people work better together. some favorites are:",
+      "react",
+      "javascript",
+      "css",
+      "pa11y",
+      "dkan",
+      "drupal",
+      "ilias",
+      "moodle",
+      "mattermost",
+      "symfony",
+      "docker",
+      "kubernetes",
+      "helm",
+      "ansible",
+      "mariadb",
+      "solr",
+      "jenkins",
+      "gitlab",
+      "openscap",
+      "gemini"
+    ],
+    "region": "Our team is primarily located in the U.S. and Canada -- however, we have others in Europe, Costa Rica, and Philippines! Instead of making rules about location, we set expectations around teamwork and communication. We welcome team members from all over the world, as long as they are able to structure their work day in a way that allows for collaboration.Some of our public sector contracts require team members to have US citizenship or residency.",
+    "careersPage": "https://civicactions.com/careers/"
+  },
+  {
+    "name": "Close",
+    "technologies": [
+      "python / flask",
+      "javascript / react",
+      "html5 / css",
+      "mongodb",
+      "elasticsearch",
+      "postgres",
+      "aws",
+      "terraform",
+      "docker",
+      "kubernetes"
+    ],
+    "region": "Open to worldwide employees provided that they can do some timezoneoverlap with US business hours.",
+    "careersPage": "http://jobs.close.com"
+  },
+  {
+    "name": "CloudApp",
+    "technologies": [
+      "ruby",
+      "rails",
+      "aws",
+      "node",
+      "go",
+      "lambda",
+      "postgresql",
+      "redis"
+    ],
+    "region": "Worldwide.",
+    "careersPage": "https://www.getcloudapp.com/careers"
+  },
+  {
+    "name": "CodePen",
+    "technologies": [
+      "javascript",
+      "jquery",
+      "react",
+      "ruby on rails",
+      "cloudflare",
+      "aws"
+    ],
+    "region": "Anywhere",
+    "careersPage": "https://blog.codepen.io,"
+  },
+  {
+    "name": "CodeSandbox",
+    "technologies": [],
+    "region": "Worldwide.",
+    "careersPage": "https://codesandbox.io/jobs."
+  },
+  {
+    "name": "Codestunts",
+    "technologies": [
+      "php",
+      "node.js",
+      "mariadb",
+      "android",
+      "ios"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://codestunts.com/wiz/inner-circle"
+  },
+  {
+    "name": "Coinbase",
+    "technologies": [
+      "aws",
+      "golang",
+      "javascript",
+      "ruby",
+      "react",
+      "nodejs",
+      "docker",
+      "rails",
+      "postgres",
+      "mongodb"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.coinbase.com/careers/positions"
+  },
+  {
+    "name": "Collabora",
+    "technologies": [
+      "any software engineering or development expertise welcome",
+      "as long as you have a passion for technology and open source!"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.collabora.com/careers.html!"
+  },
+  {
+    "name": "Compose, an IBM Company",
+    "technologies": [
+      "mongodb",
+      "redis",
+      "postgresql",
+      "mysql",
+      "elasticsearch",
+      "scylladb",
+      "rabbitmq",
+      "etcd",
+      "rethinkdb"
+    ],
+    "region": "",
+    "careersPage": "https://www.linkedin.com/company/composeio/jobs/"
+  },
+  {
+    "name": "Compucorp ",
+    "technologies": [
+      "backend: php",
+      "python",
+      "drupal",
+      "civicrm",
+      "odoo",
+      "symfony",
+      "frontend: angularjs",
+      "react",
+      "less",
+      "sass",
+      "infrastructure: aws",
+      "ansible",
+      "packer",
+      "jenkins",
+      "github and bitbucket for hosting our projects"
+    ],
+    "region": "Worldwide, but a 3-4h overlap with the UK timezone is necessary.",
+    "careersPage": "https://www.compucorp.co.uk/jobs"
+  },
+  {
+    "name": "ConsenSys Inc",
+    "technologies": [
+      "ethereum",
+      "solidity",
+      "and a variety of other technologies depending on theproject (ipfs",
+      "scala",
+      "java",
+      "go",
+      "python",
+      "react",
+      "elasticsearch",
+      "rust...)for remote communication",
+      "slack",
+      "zoom",
+      "and quip."
+    ],
+    "region": "Worldwide.",
+    "careersPage": "https://consensys.net/open-positions/"
+  },
+  {
+    "name": "Consumer Financial Protection Bureau",
+    "technologies": [],
+    "region": "USA",
+    "careersPage": "https://www.consumerfinance.gov/about-us/careers/current-openings/"
+  },
+  {
+    "name": "Core-Apps",
+    "technologies": [
+      "goexpo is flexible event management software designed to improve efficiency and increase revenue while maintaining the integrity of your existing event processes. simply put",
+      "you won’t have to upend your event processes to use goexpo",
+      "but goexpo will provide the ability to improve the efficiency of your processes.goexpo can be utilized to fill a simple gap in your event technology ecosystem",
+      "or can be the complete source for all of your event management needs. goexpo offers several packages and modules from an interactive floor plan and exhibitor directory",
+      "to booth applications and invoicing.the platform also includes an ecommerce shopping cart to generate revenue for booth and sponsorship sales. to complete the technology ecosystem",
+      "goexpo provides session/speaker data management along with an attendee planner and matchmaking networking tool.apis",
+      "webservices",
+      "and iframes are provided free of charge to display your event information",
+      "all of which also passes over to our mobile app and wayfinders for consistency across the board. there are no fees for seat licenses with goexpo and all of the training and support is provided by our dedicated account manager."
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.core-apps.com/event-technology-company/jobs/"
+  },
+  {
+    "name": "Corgibytes",
+    "technologies": [],
+    "region": "Most of the team in East Coast. Preference for people in the same timezone.",
+    "careersPage": "http://corgibytes.com/careers/!"
+  },
+  {
+    "name": "Crossover ",
+    "technologies": [],
+    "region": "Worlwide",
+    "careersPage": "https://www.crossover.com/jobs"
+  },
+  {
+    "name": "Crowdstrike",
+    "technologies": [],
+    "region": "Worldwide",
+    "careersPage": "https://jobs.jobvite.com/crowdstrike/jobs"
+  },
+  {
+    "name": "Customer.io",
+    "technologies": [
+      "ember.js",
+      "golang",
+      "javascript",
+      "rails",
+      "git",
+      "css",
+      "html"
+    ],
+    "region": "Worldwide! We have or have had people based in Germany, the UK, the US, and Canada. We also have a few nomadic folks who have worked from Australia, Korea, and Portugal!",
+    "careersPage": "http://customer.io/careers"
+  },
+  {
+    "name": "Cyber Whale",
+    "technologies": [
+      "pythonpostgresqljstsreactvueangularnx.devjavac#.net"
+    ],
+    "region": "Europe",
+    "careersPage": "https://weloveremotejobs.com/employer/cyber-whale/"
+  },
+  {
+    "name": "DappRadar\r",
+    "technologies": [
+      "web3",
+      "mysql",
+      "postgres",
+      "etc.",
+      "express framework (node.js)",
+      "docker"
+    ],
+    "region": "- Worldwide",
+    "careersPage": "https://dappradar.com/careers"
+  },
+  {
+    "name": "DashboardHub",
+    "technologies": [
+      "node",
+      "serverless",
+      "aws lambda & dynamodb",
+      "angular",
+      "material design"
+    ],
+    "region": "Worldwide",
+    "careersPage": "http://dashboardhub.io"
+  },
+  {
+    "name": "Data Science Brigade",
+    "technologies": [
+      "python",
+      "django",
+      "git"
+    ],
+    "region": "Worldwide - We have employees that work from the America to Europe, and even some of us are working nomadic by now :)",
+    "careersPage": "http://datasciencebr.com/!"
+  },
+  {
+    "name": "Datadog",
+    "technologies": [],
+    "region": "Worldwide given job openings",
+    "careersPage": "https://www.datadoghq.com/careers/detail/"
+  },
+  {
+    "name": "Datica",
+    "technologies": [
+      "golang",
+      "python",
+      ".net core",
+      "javascript",
+      "typescript",
+      "hl7",
+      "fhir",
+      "docker",
+      "kubernetes",
+      "salt",
+      "terraform"
+    ],
+    "region": "USA",
+    "careersPage": "https://datica.com/careers/"
+  },
+  {
+    "name": "DealDash",
+    "technologies": [],
+    "region": "Worldwide",
+    "careersPage": "https://www.dealdash.com/careers"
+  },
+  {
+    "name": "Dev Spotlight",
+    "technologies": [
+      "software development:",
+      "javascript",
+      "python",
+      "php",
+      "java",
+      ".net",
+      "ruby",
+      "mobile apps",
+      "microservices",
+      "agile methodology",
+      "engineering managementdevops:",
+      "aws",
+      "azure",
+      "heroku",
+      "ci/cd",
+      "docker",
+      "kubernetes",
+      "databases",
+      "monitoring"
+    ],
+    "region": "Worldwide. While our management team is based in the US, we hire technical writers all around the world.",
+    "careersPage": "https://www.devspotlight.com/work-for-us/If"
+  },
+  {
+    "name": "DigitalOcean",
+    "technologies": [
+      "go",
+      "k8s",
+      "docker",
+      "mesos",
+      "terraform",
+      "vault",
+      "consul",
+      "grafana",
+      "perl",
+      "ruby",
+      "kafka",
+      "consul",
+      "prometheus",
+      "memsql",
+      "mysql",
+      "looker",
+      "rsyslog",
+      "open vswitch",
+      "kvm",
+      "git"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.digitalocean.com/company/careers/"
+  },
+  {
+    "name": "Docker",
+    "technologies": [
+      "go",
+      "react",
+      "redux",
+      "jest",
+      "docker"
+    ],
+    "region": "Remote work is only possible in the United States.",
+    "careersPage": "https://www.docker.com/careers"
+  },
+  {
+    "name": "DuckDuckGo",
+    "technologies": [
+      "perl",
+      "html",
+      "javascript",
+      "css",
+      "kotlin",
+      "swift"
+    ],
+    "region": "WorldwideSee our about page to see where people are based: https://duckduckgo.com/about",
+    "careersPage": "https://duckduckgo.com/hiring/"
+  },
+  {
+    "name": "DynaPictures",
+    "technologies": [
+      "java",
+      "python and node microservices",
+      "react on frontend",
+      "docker"
+    ],
+    "region": "Worldwide, but we work primarily on European timezones.",
+    "careersPage": "https://dynapictures.com/"
+  },
+  {
+    "name": "EBSCO Information Services",
+    "technologies": [
+      "c#",
+      "java",
+      "node",
+      "python among others. we are also a strong proponent of cloud native technologies. we believe in using the best tool for the job and are technology needs are constantly evolving."
+    ],
+    "region": "Current openings are for remote positions in US.",
+    "careersPage": "https://careers.ebscoind.com/ebscoinformationservices"
+  },
+  {
+    "name": "Edify",
+    "technologies": [
+      "java",
+      "php",
+      "ruby",
+      "javascript",
+      "go",
+      "and anything that solves our client's needs."
+    ],
+    "region": "Costa Rica, US, Anywhere.",
+    "careersPage": "http://www.edify.cr/joinus"
+  },
+  {
+    "name": "Elastic",
+    "technologies": [
+      "java: elasticsearch",
+      "html",
+      "javascript",
+      "css: kibana",
+      "ruby: logstash",
+      "apis: perl",
+      "python",
+      "ruby",
+      "golang ..."
+    ],
+    "region": "We have employees in all around the world.",
+    "careersPage": "https://www.elastic.co/about/careers"
+  },
+  {
+    "name": "EngineYard (Support Team)",
+    "technologies": [
+      "rails",
+      "ruby",
+      "ruby on rails",
+      "cloud computing",
+      "open source",
+      "paas",
+      "node.js",
+      "cloud",
+      "devops",
+      "aws",
+      "support",
+      "linux",
+      "aws certified solutions architects",
+      "aws advanced partner",
+      "support team as a service",
+      "mysql",
+      "and postgresql"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.engineyard.com/"
+  },
+  {
+    "name": "Envoy",
+    "technologies": [
+      "languages",
+      ": ruby (rails)",
+      "javascript (ember.js)",
+      "elixir",
+      "kotlin",
+      "python",
+      "data",
+      ": postgresql",
+      "redshift",
+      "cloud",
+      ": aws",
+      "google cloud",
+      "herokufor remote communication",
+      "slack and zoom."
+    ],
+    "region": "USA, Canada & Colombia",
+    "careersPage": "https://grnh.se/83f7cd0f2us!"
+  },
+  {
+    "name": "Epic Games",
+    "technologies": [],
+    "region": "Worldwide",
+    "careersPage": "https://www.epicgames.com/site/en-US/careers"
+  },
+  {
+    "name": "Episource",
+    "technologies": [
+      "reactjs",
+      "nodejs/typescript",
+      "python",
+      "scala",
+      "golang",
+      "kubernetes."
+    ],
+    "region": "USA",
+    "careersPage": "https://www.episource.com/careers/"
+  },
+  {
+    "name": "Etsy",
+    "technologies": [
+      "php",
+      "postgres",
+      "solr",
+      "ruby",
+      "hadoop",
+      "go",
+      "javascript",
+      "css",
+      "chef"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.etsy.com/careers"
+  },
+  {
+    "name": "Evil Martians",
+    "technologies": [
+      "ruby and rails",
+      "go",
+      "typescript",
+      "elixir",
+      "rust. typescript",
+      "react/redux",
+      "svelte",
+      "vue",
+      "postcss",
+      "graphql. ios with swift. blockchain (stellar). machine learning: pytorch",
+      "catalyst. kubernetes",
+      "docker."
+    ],
+    "region": "United States (NY), Portugal, Japan.",
+    "careersPage": "https://evilmartians.com/"
+  },
+  {
+    "name": "ExportData",
+    "technologies": [
+      "ruby",
+      "ruby on rails",
+      "sidekiq + redis",
+      "postgresql",
+      "elasticsearch",
+      "react.js",
+      "ghost",
+      "terraform",
+      "docker",
+      "aws."
+    ],
+    "region": "Worldwide.",
+    "careersPage": "https://www.exportdata.io/team"
+  },
+  {
+    "name": "Fairwinds Ops",
+    "technologies": [
+      "kubernetes",
+      "golang",
+      "vue"
+    ],
+    "region": "Most of the team is located in the USA, exceptions are handled on a case by case basis.",
+    "careersPage": "https://www.fairwinds.com/careers"
+  },
+  {
+    "name": "Fastly",
+    "technologies": [
+      "1. edge computing2. edge cloud platform3. cdn4. image optimzation5. cloud security6. load balancing"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.fastly.com/about/careers"
+  },
+  {
+    "name": "Fauna",
+    "technologies": [
+      "scala",
+      "javascript"
+    ],
+    "region": "We have employees all around the world, including the US, South America, Africa, and Europe.",
+    "careersPage": "https://hire.withgoogle.com/public/jobs/faunacom"
+  },
+  {
+    "name": "Featurist",
+    "technologies": [],
+    "region": "Worldwide.",
+    "careersPage": "https://www.featurist.co.uk/careers/"
+  },
+  {
+    "name": "FingerprintJS",
+    "technologies": [
+      "typescript",
+      "react",
+      "node.js",
+      "golang",
+      "postgresql",
+      "aws"
+    ],
+    "region": "Worldwide",
+    "careersPage": "http://careers.fingerprintjs.com"
+  },
+  {
+    "name": "Fire Engine Red",
+    "technologies": [
+      "no specific information on what technologies are used and what is skill set they seek in new employees."
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://fire-engine-red.com/general-contact-form/https://fire-engine-red.com/submit-rfp/"
+  },
+  {
+    "name": "FivexL",
+    "technologies": [
+      "aws",
+      "terraform",
+      "vault",
+      "consul",
+      "packer",
+      "nomad",
+      "boundary",
+      "k8s",
+      "go",
+      "python"
+    ],
+    "region": "**Worldwide**.",
+    "careersPage": "https://fivexl.io/#contact"
+  },
+  {
+    "name": "FlightAware",
+    "technologies": [
+      "python",
+      "rust",
+      "c++",
+      "tcl",
+      "nix",
+      "kubernetes",
+      "javascript",
+      "and more."
+    ],
+    "region": "USA",
+    "careersPage": "https://flightaware.com/about/careers/"
+  },
+  {
+    "name": "FMX",
+    "technologies": [
+      "programming:",
+      "c#",
+      ".net framework 4",
+      ".net core",
+      "asp.net mvc 5",
+      "asp.net core",
+      "blazor",
+      "linq to sql (orm)",
+      "t",
+      "sql",
+      "javascript",
+      "jquery plugins",
+      "azure functions",
+      "ms test",
+      "devops:",
+      "svn",
+      "git",
+      "teamcity",
+      "azure devops",
+      "microsoft azure",
+      "aws",
+      "business tools:",
+      "our own software for bug / feature tracking",
+      "google hangouts",
+      "slack"
+    ],
+    "region": "USA",
+    "careersPage": "https://www.gofmx.com/[2]:"
+  },
+  {
+    "name": "Focusnetworks",
+    "technologies": [
+      "google ads",
+      "facebook ads",
+      "google analytics and google data studio",
+      "ms office"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://focusnetworks.enlizt.me/?utm_sourcejooble&utm_mediumcpc&utm_campaignjooble"
+  },
+  {
+    "name": "Formidable",
+    "technologies": [
+      "react",
+      "react native",
+      "node",
+      "graphql",
+      "kubernetes",
+      "aws"
+    ],
+    "region": "United States, United Kingdom, Canada, Europe",
+    "careersPage": "https://formidable.com/careers/"
+  },
+  {
+    "name": "Four Kitchens",
+    "technologies": [
+      "a few of the technologies we work with include",
+      "but are not limited to: drupal",
+      "wordpress",
+      "javascript",
+      "node",
+      "react",
+      "graphql",
+      "and building apis."
+    ],
+    "region": "We hire full-time employees who live in the United States, and we hire contractors who live in North America or Latin America.",
+    "careersPage": "https://www.fourkitchens.com/careers/"
+  },
+  {
+    "name": "Freeagent",
+    "technologies": [],
+    "region": "Scotland, UK based company, remote worldwide",
+    "careersPage": "http://www.freeagent.com/company/jobs/"
+  },
+  {
+    "name": "Fuel Made",
+    "technologies": [
+      "primarily front end: (html",
+      "css",
+      "js)",
+      "as well as liquid. some modest backend stuff",
+      "bring your favorite backend stack with you."
+    ],
+    "region": "Our positions require you to reside in western North America (Pacific or Mountain Time Zones)",
+    "careersPage": "https://fuelmade.com/pages/jobs"
+  },
+  {
+    "name": "Full Fabric",
+    "technologies": [
+      "ruby/rails",
+      "mongodb",
+      "backbone w/ marionette",
+      "coffeescript",
+      "sass"
+    ],
+    "region": "Europe",
+    "careersPage": "http://fullfabric.com/careers!"
+  },
+  {
+    "name": "Gaggle",
+    "technologies": [
+      "java",
+      "python",
+      "spring",
+      "aws",
+      "mysql",
+      "git",
+      "jira",
+      "confluence",
+      "stash"
+    ],
+    "region": "USA",
+    "careersPage": "https://www.gaggle.net/careers-culture/!"
+  },
+  {
+    "name": "Geckoboard",
+    "technologies": [
+      "we’re excited by data visualisation",
+      "react",
+      "redux",
+      "css modules",
+      "frontend build tools (like webpack) and golang."
+    ],
+    "region": "Worldwide.",
+    "careersPage": "https://www.geckoboard.com/careers/"
+  },
+  {
+    "name": "General Assembly",
+    "technologies": [
+      "languages:ruby 2.x+javascriptcoffeescriptframeworks:rails 3.x for some bigger legacy apps",
+      "rails 4.x for all newer stuff with solid upgrade pathsgrape for apis ( intridea/grape )backbonereact ( a javascript library for building user interfaces )app serving:nginx (routes a few of our apps on our domain root)webpack ( webpack module bundler)unicorn & puma depending on the app's needs and performance metricsdatabases & caching:postgresqlredismemcachetesting:rspeccucumber (trading it out for rspec features)minitestexperimenting with nightwatch.js ( nightwatch.js )background processing:sidekiqcdn:fastly ( fastly )image processing:cloudinary ( cloudinary )monitoring:newreliclibrato ( highly scalable metrics",
+      "monitoring",
+      "and alerts | librato )papertrailexception tracking:honeybadger ( honeybadger )ci:semaphore ci ( continuous integration & deployment )platform:heroku all the thingsrackspace for redundant backups",
+      "db backups",
+      "deprecated repo storage",
+      "etc"
+    ],
+    "region": "30+ campuses in 6 countries. There are positions available remote and Worldwide, specifically in the following regions: * USA* London* Saudi Arabia* Singapore* Toronto",
+    "careersPage": "https://generalassemb.ly/careers"
+  },
+  {
+    "name": "Ghost Inspector",
+    "technologies": [
+      "mostly javascript: node.js and angularjs; some ruby",
+      "react.js",
+      "php",
+      "python",
+      "and java"
+    ],
+    "region": "North America, Latin America, Caribbean",
+    "careersPage": "https://ghostinspector.com/jobs/"
+  },
+  {
+    "name": "Giant",
+    "technologies": [
+      "python",
+      "django",
+      "aws",
+      "elasticsearch",
+      "kubernetes",
+      "eks",
+      "vue.js"
+    ],
+    "region": "- UK",
+    "careersPage": "https://engineering.giantmade.com/,"
+  },
+  {
+    "name": "GitHub",
+    "technologies": [
+      "ruby on rails",
+      "go",
+      "mysql",
+      "coffeescript",
+      "sass",
+      "git"
+    ],
+    "region": "Worldwide - We have employees in almost every time zone in the world! From San Francisco to London to Australia, we hire people regardless of their physical location. We even have nomadic employees!",
+    "careersPage": "https://github.com/about/jobs!"
+  },
+  {
+    "name": "GitPrime",
+    "technologies": [
+      "python",
+      "django",
+      "javascript",
+      "angular",
+      "d3.js"
+    ],
+    "region": "We are region-agnostic, and simply look to hire the best engineers in theworld, regardless of location.",
+    "careersPage": "https://gitprime.com/jobs/"
+  },
+  {
+    "name": "Glenn Website Design",
+    "technologies": [
+      "wordpress",
+      "html code",
+      "javascript",
+      "php",
+      "mysql"
+    ],
+    "region": "",
+    "careersPage": "https://glennwebsitedesign.com/contact/"
+  },
+  {
+    "name": "Gojob",
+    "technologies": [
+      "react.js",
+      "nest.js",
+      "typescript",
+      "graphql",
+      "mongodb"
+    ],
+    "region": "France",
+    "careersPage": "https://www.welcometothejungle.com/fr/companies/gojob"
+  },
+  {
+    "name": "Gorman Health Group",
+    "technologies": [
+      "while we don't take new dependencies lightly",
+      "we do aggressively scout for new technology and ultimately",
+      "use whatever tool is right for a given job.that said",
+      "we do standardize when and where it makes sense. so far that's meant: gitlab",
+      "ubuntu",
+      "vagrant",
+      "salt",
+      "docker",
+      "ruby on rails",
+      "javascript (coffeescript)",
+      "css (stylus",
+      "less",
+      "sass)",
+      "html (haml)",
+      "bash",
+      "some c#.net mvc",
+      "and the typical myriad browser libraries including but not limited to `{jquery",
+      "bootstrap",
+      "underscore",
+      "backbone",
+      "moment",
+      "chart",
+      "modernizr}.js`"
+    ],
+    "region": "Gorman Health Group employs talented brainmatter throughout the United States.",
+    "careersPage": "https://www.gormanhealthgroup.com/careers/"
+  },
+  {
+    "name": "Grafana Labs",
+    "technologies": [
+      "go",
+      "javascript",
+      "react",
+      "redux",
+      "rxjs",
+      "webpack"
+    ],
+    "region": "United States and EMEA/EST Timezones.",
+    "careersPage": "https://grafana.com/about/careers/?plcmtfooter#jobs"
+  },
+  {
+    "name": "Gremlin",
+    "technologies": [
+      "react",
+      "java",
+      "and rust. a little go and python."
+    ],
+    "region": "USA",
+    "careersPage": "https://www.gremlin.com/team/."
+  },
+  {
+    "name": "Groove HQ",
+    "technologies": [
+      "rails",
+      "graphql",
+      "react",
+      "redux"
+    ],
+    "region": "Hires worldwide.",
+    "careersPage": "https://www.groovehq.com/about#hiring"
+  },
+  {
+    "name": "Grubhub",
+    "technologies": [
+      "java 8 (spring + dropwizard)",
+      "cassandra",
+      "aws",
+      "android",
+      "ios (swift)",
+      "javascript (angular2",
+      "react)",
+      "git"
+    ],
+    "region": "US - We currently have 1 Full-time employee remote team in the domestic US.Worldwide - We currently have 2 international remote teams: One mostly in South America, one mostly in Europe. Our international employees are currently directly contracted.",
+    "careersPage": "https://careers.grubhub.com/!"
+  },
+  {
+    "name": "GuideSmiths",
+    "technologies": [
+      "node.js",
+      "react",
+      "microservices",
+      "reactnative",
+      ".net",
+      "docker",
+      "azure",
+      "aws",
+      "serverless",
+      "graphql."
+    ],
+    "region": "Europe",
+    "careersPage": "https://guidesmiths.bamboohr.com/jobs/https://www.guidesmiths.com/careers/open-positionshttps://www.linkedin.com/jobs/search/?keywordsguidesmiths"
+  },
+  {
+    "name": "Hack Reactor Remote",
+    "technologies": [
+      "asana",
+      "github",
+      "google drive",
+      "slack",
+      "zoom"
+    ],
+    "region": "Currently, our full-time staff is based entirely in the United States.",
+    "careersPage": "http://www.hackreactor.com/careers"
+  },
+  {
+    "name": "Hanzo Archives",
+    "technologies": [
+      "aws",
+      "python",
+      "distributed systems",
+      "ansible."
+    ],
+    "region": "Dev team is UK/EU, Sales&OPS are US/UK",
+    "careersPage": "https://www.hanzo.co/about-us/careers-uk,"
+  },
+  {
+    "name": "Happy Cog",
+    "technologies": [
+      "+ php+ javascript+ css+ html+ dockerfile+ laravel+ mobile app design+ branding and marketing"
+    ],
+    "region": "United States",
+    "careersPage": "https://www.happycog.com/careers/"
+  },
+  {
+    "name": "HashiCorp",
+    "technologies": [
+      "go",
+      "ruby & ror",
+      "nodejs",
+      "ember",
+      "git(hub)"
+    ],
+    "region": "HashiCorp is interested in hiring worldwide, but is limited to certain regions for various reasons which are covered in [this HN](https://news.ycombinator.com/item?id17022563) post by HashiCorp's founder Mitchell Hashimoto.  - US (~30 of 50 states) - UK - Canada - Germany - Netherlands - France - Japan - Australia",
+    "careersPage": "https://www.hashicorp.com/jobs"
+  },
+  {
+    "name": "Headway",
+    "technologies": [
+      "react (native and web)",
+      "ruby/rails",
+      "graphql",
+      "elixir/phoenix",
+      "node"
+    ],
+    "region": "USA. Anyone legally able to be employed in the United States is elligible to apply to work at Headway.",
+    "careersPage": "https://headway.io/careers"
+  },
+  {
+    "name": "Healthfinch",
+    "technologies": [
+      "typescript",
+      "javascript",
+      "angular",
+      "nodejs",
+      "c#",
+      "css3",
+      "html5",
+      "elasticsearch",
+      "ms sqlruby",
+      "ruby on railssqlclojure",
+      "react",
+      "rspec",
+      "aws"
+    ],
+    "region": "USA",
+    "careersPage": "https://www.healthfinch.com/careers."
+  },
+  {
+    "name": "Heetch",
+    "technologies": [
+      "kafka",
+      "postgres",
+      "tile38",
+      "osrm",
+      "go",
+      "python",
+      "ruby",
+      "javascript",
+      "reactjs."
+    ],
+    "region": "Heetch employs all across Europe and countries with similar timezones, +/- 1h of CEST.",
+    "careersPage": "https://jobs.heetch.com."
+  },
+  {
+    "name": "Help Scout",
+    "technologies": [
+      "react",
+      "redux",
+      "css",
+      "jest",
+      "and cypress"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.helpscout.com/company/careers/"
+  },
+  {
+    "name": "Hireology",
+    "technologies": [
+      "ruby on rails",
+      "react",
+      "postgresql",
+      "sass"
+    ],
+    "region": "Remote position are open to any U.S. citizen whose permanent address is in the United States.",
+    "careersPage": "http://www.hireology.com/careers"
+  },
+  {
+    "name": "Homeflic wegrow",
+    "technologies": [
+      "wordpress",
+      "html code",
+      "javascript",
+      "php",
+      "mysql",
+      "node.js",
+      "react",
+      "microservices",
+      "reactnative",
+      ".net."
+    ],
+    "region": "Current openings are for remote positions in Mumbai.",
+    "careersPage": "https://www.homeflicwegrow.com/hiring/"
+  },
+  {
+    "name": "Honeybadger",
+    "technologies": [
+      "aws",
+      "javascript",
+      "ruby/rails"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.honeybadger.io/careers/"
+  },
+  {
+    "name": "Hopper",
+    "technologies": [
+      "scala/pythonios and/or android developmentpandas",
+      "r",
+      "sas or other tools appropriate for large scale data preparation and analysisdatabases and sql",
+      "especially hive and google big query"
+    ],
+    "region": "USA, Canada, UK, Bulgaria, Philippines, Colombia",
+    "careersPage": "https://www.hopper.com/careers"
+  },
+  {
+    "name": "Hudl",
+    "technologies": [
+      "hudl keep a github pages site [hudl.github.io](http://hudl.github.io/) showing their open source projects and technology"
+    ],
+    "region": "US and UK based employees.",
+    "careersPage": "http://public.hudl.com/jobs"
+  },
+  {
+    "name": "Human Made",
+    "technologies": [
+      "wordpress",
+      "php",
+      "javascript",
+      "server technologies?"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://hmn.md/hiring/"
+  },
+  {
+    "name": "Hyperion Development South Africa",
+    "technologies": [
+      "must be proficient in at least one modern programming language (eg java/python/c++/c#)"
+    ],
+    "region": "South Africa (some positions are open to the rest of Africa)",
+    "careersPage": "https://hyperiondev.com/jobs"
+  },
+  {
+    "name": "Hypothesis",
+    "technologies": [
+      "python",
+      "javascript",
+      "some angular",
+      "so much more!"
+    ],
+    "region": "Most of us are in the US and Europe, but we're open to consider other locations as long as we have some timezone overlap.",
+    "careersPage": "https://hypothes.is/jobs/"
+  },
+  {
+    "name": "IDoneThis",
+    "technologies": [
+      "productivity",
+      "management",
+      "reporting",
+      "fulfillment",
+      "performance management",
+      "coaching",
+      "employee recognition",
+      "leadership",
+      "social performance",
+      "status reports",
+      "snippets",
+      "enterprise",
+      "business software",
+      "and enterprise social software"
+    ],
+    "region": "Worldwide",
+    "careersPage": "http://idonethis.com[LinkedIn"
+  },
+  {
+    "name": "Igalia",
+    "technologies": [
+      "webkit and blink browser engines",
+      "mesa graphics drivers",
+      "v8 and javascriptcore language runtimes",
+      "gstreamer multimedia toolkit or high",
+      "speed software",
+      "defined networking with our work on snabb switch",
+      "etc."
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.igalia.com/jobs/"
+  },
+  {
+    "name": "Impira",
+    "technologies": [
+      "nodejs",
+      "go",
+      "reactjs",
+      "python",
+      "java",
+      "c++",
+      "tensorflow",
+      "keras"
+    ],
+    "region": "Remote USA and On-Site positions in San Francisco.",
+    "careersPage": "https://www.impira.com/careers"
+  },
+  {
+    "name": "Implisense",
+    "technologies": [],
+    "region": "Germany",
+    "careersPage": "https://implisense.orgos.io."
+  },
+  {
+    "name": "Inpsyde.",
+    "technologies": [
+      "wordpress",
+      "webpack",
+      "encore",
+      "sass",
+      "react",
+      "nodejs/deno",
+      "javascript"
+    ],
+    "region": "Germany or You do live in Europe or have European Citizenship (required)",
+    "careersPage": "https://inpsyde.com/en/jobs/"
+  },
+  {
+    "name": "Instamobile",
+    "technologies": [
+      "react native",
+      "flutter",
+      "ios",
+      "android",
+      "swift",
+      "kotlin"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.instamobile.io/react-native-jobs/"
+  },
+  {
+    "name": "Interactive Intelligence",
+    "technologies": [],
+    "region": "Remotes are preferred to be on New York time or similar, as our main offices are on New York time, but there are various remotes throughout the globe.",
+    "careersPage": "https://www.inin.com/careers"
+  },
+  {
+    "name": "Interpersonal Frequency (I.F.)",
+    "technologies": [
+      "html5",
+      "google analytics",
+      "and jquery",
+      "acording to g2 stack."
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://ifsight.com"
+  },
+  {
+    "name": "InVision",
+    "technologies": [
+      "go",
+      "node",
+      "javascript",
+      "typescript",
+      "react",
+      "docker",
+      "kubernetes"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.invisionapp.com/company#jobs"
+  },
+  {
+    "name": "IOpipe",
+    "technologies": [
+      "nodejs/javascript",
+      "python",
+      "java",
+      "golang. we're heavy aws users (kinesis",
+      "aws lambda [of course]",
+      "and other aws services)."
+    ],
+    "region": "All employees are US-based.",
+    "careersPage": "https://angel.co/iopipeAdditionally,"
+  },
+  {
+    "name": "iOS App Templates",
+    "technologies": [],
+    "region": "The team is 100% working remotely. There's no office or time zone barriers.",
+    "careersPage": "https://www.iosapptemplates.com/ios-developers-jobs-remote"
+  },
+  {
+    "name": "IPS Group, Inc.",
+    "technologies": [
+      ".net",
+      "sql",
+      "javascript",
+      "jquery",
+      "ajax",
+      "xml",
+      "xsl",
+      "dtd",
+      "wcf",
+      "xml web services integration",
+      "x/html",
+      "css and dhtml"
+    ],
+    "region": "USA",
+    "careersPage": "https://www.ipsgroupinc.com/careers/."
+  },
+  {
+    "name": "Iterative",
+    "technologies": [
+      "python",
+      "golang",
+      "javascript",
+      "typescript",
+      "react",
+      "terraform",
+      "aws",
+      "gcp",
+      "azure"
+    ],
+    "region": "Anywhere",
+    "careersPage": "https://jobs.lever.co/iterative?lever-originapplied&lever-source%5B%5Dremoteintech"
+  },
+  {
+    "name": "iwantmyname",
+    "technologies": [
+      "we're currently using modern perl",
+      "erlang",
+      "python",
+      "node",
+      "couchdb",
+      "rabbitmq",
+      "kyoto tycoon",
+      "puppet",
+      "vagrant",
+      "docker and are looking at a whole lot of new toys to build the best possible experience for our customers."
+    ],
+    "region": "Worldwide - iwantmyname has been remote since day one.",
+    "careersPage": "https://iwantmyname.com/jobs"
+  },
+  {
+    "name": "Jackson River",
+    "technologies": [
+      "apache",
+      "mysql",
+      "php",
+      "drupal",
+      "html",
+      "css",
+      "javascript."
+    ],
+    "region": "Jackson River currently only has US-based employees.",
+    "careersPage": "http://jacksonriver.com/about/jobs"
+  },
+  {
+    "name": "JBS Custom Software Solutions",
+    "technologies": [
+      "python",
+      "node.js",
+      "react",
+      ".net",
+      "aws",
+      "azure",
+      "postgresql",
+      "mysql"
+    ],
+    "region": "USA",
+    "careersPage": "https://www.jbssolutions.com/careers/"
+  },
+  {
+    "name": "Jitera",
+    "technologies": [
+      "react",
+      "react native",
+      "ruby",
+      "ruby on rails",
+      "golang",
+      "nodejs",
+      "mysql"
+    ],
+    "region": "For technical hires, we're looking anywhere all around the world.",
+    "careersPage": "https://angel.co/company/iruuza/jobs"
+  },
+  {
+    "name": "Joyent",
+    "technologies": [
+      "node.js",
+      "restify",
+      "illumos",
+      "virtualization",
+      "bhyve",
+      "kvm",
+      "zones",
+      "zfs"
+    ],
+    "region": "We can hire people easily in United States, Canada, United Kingdom, Singapore, and South Korea, in part because we already have employees in those locales. Other locations are not impossible, but it’s much more difficult to make arrangements.",
+    "careersPage": "https://www.joyent.com/careers/"
+  },
+  {
+    "name": "JupiterOne",
+    "technologies": [
+      "node.js",
+      "typescript",
+      "react",
+      "aws (lambda",
+      "ecs",
+      "apigw)",
+      "graphql"
+    ],
+    "region": "We can hire people anywhere in the United States.",
+    "careersPage": "https://www.jupiterone.com/careers/"
+  },
+  {
+    "name": "Keen IO",
+    "technologies": [
+      "analytics",
+      "big data",
+      "data science",
+      "developer tools",
+      "apis",
+      "and data visualization"
+    ],
+    "region": "USA",
+    "careersPage": "https://scaleworks.com/careers/Contact:https://www.linkedin.com/company/keen-io/https://keen.io/"
+  },
+  {
+    "name": "Khan Academy",
+    "technologies": [
+      "[khan academy](https://www.khanacademy.org/) offers practice exercises",
+      "instructional videos",
+      "and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom. we tackle math",
+      "science",
+      "computing",
+      "history",
+      "art history",
+      "economics",
+      "and more",
+      "including k",
+      "14 and test preparation (sat",
+      "praxis",
+      "lsat) content. we focus on skill mastery to help learners establish strong foundations",
+      "so there's no limit to what they can learn next"
+    ],
+    "region": "[Khan Academy](https://www.khanacademy.org/) available in 190 countries, Worldwide",
+    "careersPage": "https://www.khanacademy.org/careers"
+  },
+  {
+    "name": "KickBack Rewards Systems",
+    "technologies": [
+      "python",
+      "php",
+      "django",
+      "react",
+      "graphql",
+      "c#",
+      "xamarin",
+      "rest",
+      "docker",
+      "aws",
+      "etc."
+    ],
+    "region": "USA",
+    "careersPage": "https://kickbacksystems.com/careers.html"
+  },
+  {
+    "name": "KissMetrics",
+    "technologies": [
+      "javascript",
+      "react",
+      "jquery",
+      "backbone",
+      "git",
+      "distributed systems",
+      "postgressql",
+      "mysql",
+      "key",
+      "value stores",
+      "r",
+      "ruby",
+      "python",
+      "etc."
+    ],
+    "region": "Primarily based out of San Francisco, but KissMetrics have a strong remote presence all throughout the world.",
+    "careersPage": "https://www.kissmetrics.com/careers/"
+  },
+  {
+    "name": "Koding",
+    "technologies": [
+      "+ javascript+ go+ coffeescript+ shell+ linux+ hcl"
+    ],
+    "region": "+ North America+ Europe",
+    "careersPage": "https://www.koding.com/about"
+  },
+  {
+    "name": "Konkurenta",
+    "technologies": [
+      "javascript",
+      "react",
+      "react native",
+      "graphql",
+      "webrtc",
+      "node.js",
+      "rabbitmq",
+      "mongodb",
+      "mysql",
+      "redis"
+    ],
+    "region": "Mainly EU, we have one developer from Brazil.",
+    "careersPage": "https://konkurenta.com/jobsOr"
+  },
+  {
+    "name": "Kuali",
+    "technologies": [
+      "node",
+      "react",
+      "mongodb",
+      "java",
+      "sass",
+      "git",
+      "slack",
+      "sketch",
+      "figma",
+      "principle"
+    ],
+    "region": "All of our customers and employees are in the USA, and we currently are focused on that region only.",
+    "careersPage": "https://jobs.kuali.co."
+  },
+  {
+    "name": "Labelbox",
+    "technologies": [
+      "typescript",
+      "node",
+      "python",
+      "java",
+      "kubernetes",
+      "and many others depending on the team."
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://labelbox.com/company/careers"
+  },
+  {
+    "name": "Lambda School",
+    "technologies": [
+      "typescript",
+      "heroku",
+      "postgres"
+    ],
+    "region": "Remote in North America and Europe, with HQ in San Francisco, CA.",
+    "careersPage": "https://lambdaschool.com/careers/"
+  },
+  {
+    "name": "LaterPay",
+    "technologies": [
+      "python",
+      "postgres",
+      "js",
+      "react."
+    ],
+    "region": "Europe, US, Brazil, Canada. Most of our people are in Europe, so we try to ensure some overlap in terms of timezones.",
+    "careersPage": "https://www.laterpay.net/careers"
+  },
+  {
+    "name": "Let's Encrypt",
+    "technologies": [],
+    "region": "",
+    "careersPage": "https://letsencrypt.org/jobs/"
+  },
+  {
+    "name": "Lifetime Value Company",
+    "technologies": [
+      "ruby",
+      "ruby on rails",
+      "go",
+      "emberjs",
+      "react",
+      "php",
+      "html",
+      "css",
+      "javascript"
+    ],
+    "region": "Worldwide - work from anywhere",
+    "careersPage": "https://www.ltvco.com/careers.html"
+  },
+  {
+    "name": "Linaro",
+    "technologies": [
+      "linux kernel",
+      "open source",
+      "embedded linux",
+      "software",
+      "collaboration",
+      "engineering",
+      "and arm"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.linaro.org/careers/[Linaro"
+  },
+  {
+    "name": "Lincoln Loop",
+    "technologies": [
+      "python and django."
+    ],
+    "region": "USA",
+    "careersPage": "https://lincolnloop.com/"
+  },
+  {
+    "name": "LINE Plus Corporation",
+    "technologies": [
+      "android",
+      "ios",
+      "windows",
+      "db",
+      "java",
+      "python",
+      "c/c++",
+      "ad",
+      "ai/ml",
+      "blockchain",
+      "fintech",
+      "data",
+      "cloud/infra",
+      "game",
+      "network",
+      "security",
+      "qa"
+    ],
+    "region": "* Republic of Korea",
+    "careersPage": "https://career.linecorp.com/linecorp/career/list"
+  },
+  {
+    "name": "Linux Foundation",
+    "technologies": [
+      "go",
+      "docker",
+      "c",
+      "c++",
+      "bash",
+      "etc open source project"
+    ],
+    "region": "**Worldwide**.",
+    "careersPage": "https://www.linuxfoundation.org/about/careers/"
+  },
+  {
+    "name": "Litmus Software",
+    "technologies": [
+      "ruby on rails",
+      ".net",
+      "aws"
+    ],
+    "region": "We have offices in London, Boston, and San Francisco, but many of our employees work fully remote. Even those who work close to the offices often work from home. We have employees in Central America, all over Europe, Pakistan, and many other countries.",
+    "careersPage": "https://litmus.com/careers"
+  },
+  {
+    "name": "LivePerson",
+    "technologies": [
+      "currently used technologies include:",
+      "java",
+      "node.js",
+      "javascript",
+      "kafka",
+      "cassandra",
+      "elasticsearch",
+      "couchbase",
+      "nginx"
+    ],
+    "region": "Worldwide.",
+    "careersPage": "https://www.liveperson.com/company/careers"
+  },
+  {
+    "name": "Lullabot",
+    "technologies": [
+      "drupal",
+      "php",
+      "html",
+      "sass",
+      "css",
+      "javascript",
+      "ruby",
+      "phone gap",
+      "titanium"
+    ],
+    "region": "- 6 countries- 52 cities",
+    "careersPage": "https://www.lullabot.com/jobs"
+  },
+  {
+    "name": "Lyseon Tech",
+    "technologies": [
+      "php",
+      "postgresql",
+      "laravel",
+      "symfony",
+      "docker",
+      "mysql",
+      "mariadb",
+      "mongodb",
+      "javascript",
+      "nginx",
+      "apache",
+      "redis",
+      "wordpress",
+      "git"
+    ],
+    "region": "Brazil",
+    "careersPage": "http://lt.coop.br/If"
+  },
+  {
+    "name": "madewithlove",
+    "technologies": [
+      "php (laravel)",
+      "html",
+      "javascript (react",
+      "react native",
+      "node)",
+      "css",
+      "elasticsearch",
+      "..."
+    ],
+    "region": "Everywhere between timezones UTC-5 and UTC+3.",
+    "careersPage": "https://madewithlove.com/careers/"
+  },
+  {
+    "name": "MailerLite",
+    "technologies": [
+      "backend:",
+      "php",
+      "laravelfrontend:",
+      "vuejs",
+      "nuxt.js",
+      "sass",
+      "less",
+      "angularjs",
+      "angular.io",
+      "typescript",
+      "javascript",
+      "smarty templatesdatastores:",
+      "mysql",
+      "postgres",
+      "elasticsearch",
+      "mongodb",
+      "redis",
+      "memcacheddevops:",
+      "gcp",
+      "terraform",
+      "kubernetes",
+      "docker",
+      "vagrant",
+      "ansible",
+      "circleci",
+      "golang",
+      "pythonmobile:",
+      "swift"
+    ],
+    "region": "Worldwide.",
+    "careersPage": "https://www.mailerlite.com/jobs/"
+  },
+  {
+    "name": "Mapbox",
+    "technologies": [
+      "mapbox gl js for web",
+      "ios",
+      "android",
+      "react native",
+      "unity",
+      "qt."
+    ],
+    "region": "Remote locations include U.S., Canada, Europe, and South America.",
+    "careersPage": "https://www.mapbox.com/jobs/.Read"
+  },
+  {
+    "name": "Marco Polo",
+    "technologies": [
+      "python",
+      "java",
+      "kotlin",
+      "swift",
+      "objective",
+      "c",
+      "firebase",
+      "vue.js"
+    ],
+    "region": "North America",
+    "careersPage": "https://marcopolo.me/jobs"
+  },
+  {
+    "name": "Mediacurrent Interactive Solutions, LLC",
+    "technologies": [
+      "drupal"
+    ],
+    "region": "US-based employees",
+    "careersPage": "https://www.mediacurrent.com/about/careers"
+  },
+  {
+    "name": "Medium",
+    "technologies": [
+      "go",
+      "python",
+      "javascript (node.js",
+      "react or graphql)",
+      "aws (rds",
+      "sqs",
+      "dynamodb)",
+      "kubernetes",
+      "mesos or ecs"
+    ],
+    "region": "US only",
+    "careersPage": "https://jobs.lever.co/medium?teamEngineering"
+  },
+  {
+    "name": "Memberful",
+    "technologies": [
+      "wordpress",
+      "google analytics",
+      "campaign monitor",
+      "convertkit",
+      "drip",
+      "mailchimp",
+      "mailerlite",
+      "discourse",
+      "discord",
+      "bbpress",
+      "tapfiliate",
+      "learndash",
+      "sensei",
+      "zapier",
+      "api & webhooks"
+    ],
+    "region": "Worldwide - work from anywhere",
+    "careersPage": "https://memberful.com/jobs/"
+  },
+  {
+    "name": "MetaMask",
+    "technologies": [
+      "react native",
+      "ios",
+      "android",
+      "react",
+      "node.js"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://boards.greenhouse.io/consensys/jobs/1990589"
+  },
+  {
+    "name": "Mixcloud",
+    "technologies": [
+      "pythondjangoreactjavascript"
+    ],
+    "region": "Europe",
+    "careersPage": "https://apply.workable.com/mixcloud-limited/"
+  },
+  {
+    "name": "Mobile Jazz",
+    "technologies": [],
+    "region": "Worldwide",
+    "careersPage": "https://mobilejazz.com/jobs"
+  },
+  {
+    "name": "MODSQUAD",
+    "technologies": [],
+    "region": "Worldwide",
+    "careersPage": "https://modsquad.com/careers/"
+  },
+  {
+    "name": "MongoDB",
+    "technologies": [
+      "1. nosql2. database as a service3. cloud platform"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.mongodb.com/careers"
+  },
+  {
+    "name": "Mozilla",
+    "technologies": [
+      "browser",
+      "internet",
+      "software",
+      "mobile",
+      "web apps",
+      "os",
+      "identity",
+      "android",
+      "data science",
+      "and open source."
+    ],
+    "region": "North America",
+    "careersPage": "https://careers.mozilla.org/"
+  },
+  {
+    "name": "Muck Rack",
+    "technologies": [
+      "python",
+      "django",
+      "celery",
+      "redis",
+      "elasticsearch",
+      "nginx",
+      "gunicorn",
+      "varnish",
+      "ansible",
+      "sass",
+      "backbone",
+      "es6",
+      "webpack"
+    ],
+    "region": "Worldwide!",
+    "careersPage": "https://muckrack.com/careers"
+  },
+  {
+    "name": "MySQL",
+    "technologies": [
+      "c",
+      "c++",
+      "c#",
+      ".net",
+      "java",
+      "php",
+      "perl",
+      "python"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.mysql.com/about/jobs/"
+  },
+  {
+    "name": "Nationwide ",
+    "technologies": [
+      "cloud technologies",
+      "agile methodologies",
+      "java",
+      "microservices/rest apis",
+      "c++",
+      "python",
+      "javascript",
+      "powershell",
+      "unix/linux",
+      "windows",
+      "aws",
+      "containers",
+      "security",
+      "sql",
+      "snowflake",
+      "teradata",
+      "oracle",
+      "and more."
+    ],
+    "region": "USA",
+    "careersPage": "https://nationwide.eightfold.ai/careers,"
+  },
+  {
+    "name": "Netris",
+    "technologies": [
+      "python",
+      "c++",
+      "free range routing (frr)",
+      "sonic",
+      "cumulus linux",
+      "dpdk",
+      "switchdev",
+      "mellanox",
+      "edgecore",
+      "linux foundation"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.netris.ai/job-openings/"
+  },
+  {
+    "name": "Netsparker",
+    "technologies": [
+      ".net framework",
+      "winforms"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.netsparker.com/jobs/"
+  },
+  {
+    "name": "Nettl Edinburgh",
+    "technologies": [
+      "wordpresslinuxapachephpmysql"
+    ],
+    "region": "Worldwide - We have employees that work from the America to Europe.",
+    "careersPage": "http://www.webdesignedinburgh.com/"
+  },
+  {
+    "name": "NEXT",
+    "technologies": [
+      "java",
+      "reactjs",
+      "reactnative",
+      "microservices",
+      "postgresql",
+      "aws",
+      "kubernetes."
+    ],
+    "region": "USA",
+    "careersPage": "https://www.nexttrucking.com/careers/"
+  },
+  {
+    "name": "No Code No Problem",
+    "technologies": [
+      "🖥 no",
+      "code developer: bubble.io",
+      "webflow",
+      "adalo🎨 design: ux/ui design"
+    ],
+    "region": "🌎 Worldwide",
+    "careersPage": "https://www.nocodenoprob.com/"
+  },
+  {
+    "name": "NoRedInk",
+    "technologies": [
+      "rails",
+      "elixir",
+      "javascript",
+      "elm"
+    ],
+    "region": "Pacific Time (PST) to Central European Time (CET)",
+    "careersPage": "https://www.noredink.com/jobs"
+  },
+  {
+    "name": "npm",
+    "technologies": [
+      "javascriptnode.js"
+    ],
+    "region": "USA",
+    "careersPage": "https://www.npmjs.com/jobs?utm_sourcenodeweekly&utm_mediumemail"
+  },
+  {
+    "name": "Nuage",
+    "technologies": [
+      "cloud services",
+      "salesforce",
+      "devsecops",
+      "digital technologies."
+    ],
+    "region": "Current openings are for remote positions in Mumbai.",
+    "careersPage": "https://nuagebiz.tech/careers/"
+  },
+  {
+    "name": "Octopus Deploy",
+    "technologies": [
+      "c#",
+      ".net",
+      "typescript",
+      "react",
+      "go"
+    ],
+    "region": "- Worldwide",
+    "careersPage": "https://octopus.com/company/careers"
+  },
+  {
+    "name": "Okta",
+    "technologies": [
+      "java",
+      "javascript",
+      "react",
+      "hibernate",
+      "spring boot",
+      "mysql",
+      "github",
+      "redis",
+      "kinesis",
+      "elasticsearch",
+      "aws",
+      "vagrant",
+      "docker",
+      "maven",
+      "npm",
+      "artifactory",
+      "chef",
+      "ansible"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.okta.com/company/careers/"
+  },
+  {
+    "name": "Olist",
+    "technologies": [
+      "mainly python",
+      "django and postgres",
+      "but we are starting to use go and elixir."
+    ],
+    "region": "Currently, we only accept portuguese speakers candidates that can work in a time range compatible with the BRT (UTC -3) business hours.",
+    "careersPage": "https://olist.com/trabalhe-conosco/."
+  },
+  {
+    "name": "Ollie Order",
+    "technologies": [
+      "rubyrailsjavascriptapollographqlreactrspeccypress"
+    ],
+    "region": "Canada, BC",
+    "careersPage": "https://forms.gle/oKMTzasq7N5FpkS69"
+  },
+  {
+    "name": "Olo",
+    "technologies": [
+      "primarily .net stack. c#",
+      "f#",
+      "sql",
+      "elasticsearch",
+      "node.js",
+      "ember",
+      "react",
+      "aws."
+    ],
+    "region": "USA",
+    "careersPage": "https://www.olo.com/company/#careers."
+  },
+  {
+    "name": "Ombu Labs",
+    "technologies": [
+      "ruby on rails",
+      "react",
+      "postgres",
+      "redis",
+      "sinatra",
+      "javascript",
+      "aws",
+      "heroku."
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.ombulabs.com/jobs"
+  },
+  {
+    "name": "On The Go Systems",
+    "technologies": [
+      "php",
+      "react",
+      "node.js",
+      "aws",
+      "mattermost",
+      "zoom"
+    ],
+    "region": "OnTheGoSystems started as a fully-remote business and we welcome outstanding people from anywhere in the world.",
+    "careersPage": "https://onthegosystems.com/jobs/."
+  },
+  {
+    "name": "OpenZeppelin",
+    "technologies": [
+      "soldity",
+      "javascript",
+      "typescript",
+      "node.js"
+    ],
+    "region": "Where are remote employees accepted? **Worldwide**.",
+    "careersPage": "https://openzeppelin.com/jobs/#openings"
+  },
+  {
+    "name": "Oracle",
+    "technologies": [
+      "oracle database technologies (rdbms",
+      "pl/sql",
+      "java",
+      ".net",
+      "html and xml)"
+    ],
+    "region": "Worldwide - Have employees in almost every time zone in the world! From San Francisco to London to Australia to India, we hire people regardless of their physical location.",
+    "careersPage": "https://www.oracle.com/in/corporate/careers/!"
+  },
+  {
+    "name": "O'Reilly Media",
+    "technologies": [],
+    "region": "",
+    "careersPage": "https://www.oreilly.com/careers/"
+  },
+  {
+    "name": "Our-Hometown Inc.",
+    "technologies": [],
+    "region": "USA",
+    "careersPage": "https://our-hometown.com/job-opportunities/"
+  },
+  {
+    "name": "Over",
+    "technologies": [
+      "mobile (ios",
+      "android)",
+      "backend & web engineers",
+      "data analyst",
+      "marketing and design"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.madewithover.com/jobs"
+  },
+  {
+    "name": "Pagepro",
+    "technologies": [
+      "react js",
+      "react native",
+      "graphql",
+      "typescipt",
+      "javascript redux"
+    ],
+    "region": "Europe",
+    "careersPage": "https://pagepro.co/"
+  },
+  {
+    "name": "PagerDuty",
+    "technologies": [
+      "some of what we use:",
+      "ruby / rails",
+      "scala",
+      "elixir",
+      "ember",
+      "backbone",
+      "node",
+      "mysql / percona xtradb cluster",
+      "cassandra",
+      "elasticsearch",
+      "kafka",
+      "zookeeper",
+      "view more on [stackshare.io](https://stackshare.io/pagerduty/pagerduty)"
+    ],
+    "region": "USA",
+    "careersPage": "https://www.pagerduty.com/careers/"
+  },
+  {
+    "name": "Palantir.net",
+    "technologies": [
+      "drupal"
+    ],
+    "region": "US only.",
+    "careersPage": "https://palantir.bamboohr.com/jobs/view.php?id11Specific"
+  },
+  {
+    "name": "Parabol",
+    "technologies": [
+      "typescript",
+      "react",
+      "graphql",
+      "relay",
+      "rethinkdb",
+      "postgresql",
+      "redis",
+      "webpack",
+      "babel"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.parabol.co/join"
+  },
+  {
+    "name": "Park Assist",
+    "technologies": [
+      "c++",
+      "opencv",
+      "ruby",
+      "sinatra",
+      "circleci",
+      "github",
+      "ruby on rails",
+      "jruby",
+      "postgresql",
+      "kafka",
+      "kafka streams",
+      "react",
+      "redux",
+      "docker",
+      "kubernetes",
+      "aws"
+    ],
+    "region": "Worldwide",
+    "careersPage": "http://tech.parkassist.com/jobs/"
+  },
+  {
+    "name": "Particular Software",
+    "technologies": [
+      "extensible messaging and workflow for .net and .net coresupports a variety of messaging patterns and workflows on multiple transports like msmq",
+      "rabbitmq",
+      "azure",
+      "and amazon sqs. developers focus on core logic",
+      "fully abstracted from the underlying infrastructure. runs on .net or .net core on windows",
+      "linux",
+      "or in docker containers.we believe working in the particular culture offers inherent benefits such as flexible hours",
+      "working from home",
+      "working with smart",
+      "helpful people",
+      "and the ability to influence the organizational structure.at particular software",
+      "it's not just about writing software and building great products. it's about improving the lives of the developers",
+      "tech leads and operations professionals who drive the software industry. the software we develop helps organizations design and build elegant mission",
+      "critical systems by letting them focus on their business code instead of wasting their time reinventing the infrastructural wheels underneath it.we make all source code available at github through project",
+      "specific repositories: https://github.com/particular. this will give you the best indication of the technologies we use."
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://particular.net/careers"
+  },
+  {
+    "name": "Payfully",
+    "technologies": [
+      "mongodb",
+      "node.js",
+      "software architecture",
+      "information architecture",
+      "aws/ec2/elb/s3/dynamodb",
+      "typescript."
+    ],
+    "region": "Payfully employs people worldwide",
+    "careersPage": "https://angel.co/payfully/jobs/"
+  },
+  {
+    "name": "PayScale",
+    "technologies": [
+      "html",
+      "javascript",
+      "css",
+      "sql",
+      "c#",
+      "asp.net",
+      "angular 4+",
+      "mongodb",
+      "elasticseach",
+      "bootstrap",
+      "jira and git"
+    ],
+    "region": "USA",
+    "careersPage": "https://jobs.smartrecruiters.com/PayScale/743999782844766-associate-software-engineer-remote-"
+  },
+  {
+    "name": "Paytm Labs",
+    "technologies": [
+      "java",
+      "scala",
+      "spark",
+      "hadoop",
+      "ml",
+      "kubernetes",
+      "aws",
+      "and many others."
+    ],
+    "region": "Canada & USA",
+    "careersPage": "https://paytmlabs.com/#careers"
+  },
+  {
+    "name": "PeachWorks",
+    "technologies": [
+      "jira software",
+      "jquery",
+      "mysql",
+      "javascript",
+      "html",
+      "react/nodejs",
+      "elasticsearch",
+      "redis",
+      "postgresql"
+    ],
+    "region": "",
+    "careersPage": "https://careers.getbeyond.com/apply-now"
+  },
+  {
+    "name": "Percona",
+    "technologies": [
+      "see:",
+      "https://github.com/percona",
+      "https://www.percona.com/software"
+    ],
+    "region": "Worldwide.",
+    "careersPage": "http://percona.com/careers"
+  },
+  {
+    "name": "PicksCo (The Picks & Shovels Co.)",
+    "technologies": [
+      "node.js",
+      "graphql",
+      "apollo",
+      "react",
+      "aws"
+    ],
+    "region": "Currently all employees are based in the US, but we are open to working with anyone who resides within the GMT -7 (Pacific Time) and +1 (Central European Time) zones.",
+    "careersPage": "https://angel.co/picksco."
+  },
+  {
+    "name": "Platform Builders",
+    "technologies": [
+      "in general",
+      "we don't have preferences for technologies",
+      "but for solutions.but some projects we have developed are using java",
+      "ruby on rails",
+      ".net mvc",
+      "rabbitmq",
+      "mysql",
+      "elasticsearch",
+      "react native",
+      "flutter",
+      "etc.and using some clouds as aws",
+      "azure and gcp."
+    ],
+    "region": "Worldwide. Most of the team works in Brazil, and others are spread across Europe, such as Portugal and Germany.",
+    "careersPage": "https://jobs.kenoby.com/sejabuilder."
+  },
+  {
+    "name": "Pleo",
+    "technologies": [
+      "if web services have no secrets for you",
+      "kotlin",
+      "typescript",
+      "kubernetes",
+      "docker",
+      "aws tickle your mind",
+      "come talk to us.",
+      "server",
+      "side languages (we mostly use kotlin and typescript but we know you can learn new languages)",
+      "cloud environments (aws",
+      "azure",
+      "heroku",
+      "google cloud",
+      "digital ocean)",
+      "...and micro",
+      "services / distributed systems (kubernetes",
+      "aws lambda",
+      "consul)",
+      "devops culture and tools (ci/cd",
+      "travis",
+      "gradle",
+      "terraform)",
+      "relational databases (postgresql",
+      "mysql",
+      "mariadb",
+      "spanner)",
+      "basic scripting (bash",
+      "python)"
+    ],
+    "region": "East American / European / African timezones",
+    "careersPage": "https://www.pleo.io/da/careers/Our"
+  },
+  {
+    "name": "PNC Financial Services",
+    "technologies": [
+      "java",
+      "springboot",
+      "kubernetes",
+      "angular",
+      "python and many others depending on the team."
+    ],
+    "region": "United States.",
+    "careersPage": "https://careers.pnc.com/"
+  },
+  {
+    "name": "PowerSchool",
+    "technologies": [
+      "css 3",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ],
+    "region": "North America",
+    "careersPage": "https://www.powerschool.com/company/careers/"
+  },
+  {
+    "name": "Precision Nutrition",
+    "technologies": [
+      "precision nutrition is a health and fitness company. the specific technologies are listed for each position. some of the highlight terms i found listend include: javascript",
+      "ruby on rails rails",
+      "react",
+      "vue",
+      "ember",
+      "amazon web services",
+      "ec2",
+      "elixir",
+      "angular",
+      "docker",
+      "agile",
+      "ux",
+      "\"designing",
+      "building",
+      "implementing",
+      "and supporting etl processes",
+      "dimensional data models",
+      "and data repositories for business intelligence and analytics purposes\"",
+      "and familiarity jira."
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.precisionnutrition.com/jobs,"
+  },
+  {
+    "name": "Prelude",
+    "technologies": [
+      "we use javascript (react)",
+      "python (flask)",
+      "and sql (postgresql). we’re hosted on aws."
+    ],
+    "region": "USA",
+    "careersPage": "https://www.prelude.co/careers"
+  },
+  {
+    "name": "PreviousNext",
+    "technologies": [],
+    "region": "",
+    "careersPage": "https://www.previousnext.com.au"
+  },
+  {
+    "name": "PrivacyCloud",
+    "technologies": [
+      "these are some of the technologies you will be working with:",
+      "typescript",
+      "hapi.js + typeorm",
+      "mysql",
+      "react and react native (+ redux)",
+      "google cloud",
+      "this is important:",
+      "as long as you can provide some equivalent experience (for example: postgres instead of mysql",
+      "{rails",
+      "laravel",
+      "spring",
+      "express.js} instead of {hapi.js",
+      "typeorm}",
+      "{vue",
+      "angular} instead of react)",
+      "that’s fine. you don’t need to have any professional experience with the tools above.",
+      "you don’t even need to tick all the boxes!"
+    ],
+    "region": "Spain.",
+    "careersPage": "https://github.com/privacycloud/jobs."
+  },
+  {
+    "name": "Procurify",
+    "technologies": [
+      "reactjs",
+      "typescript",
+      "docker",
+      "python/django",
+      "nodejs",
+      "restful apis"
+    ],
+    "region": "Procurify support remote working in Canada.",
+    "careersPage": "https://www.procurify.com/careers."
+  },
+  {
+    "name": "Progress Engine",
+    "technologies": [
+      "web development:",
+      "ruby on rails for web applications",
+      "phoenix framework for highly loaded services on elixir",
+      "golang for developing apis or system applicationmobile applications:",
+      "react native for cross",
+      "platform applications (ios and android)",
+      "swift/objective",
+      "c for ios/ipados platform",
+      "kotlin/java for android platform"
+    ],
+    "region": "Our employees are from the following regions:Russia (time zones from Moscow to Vladivostok)ArmeniaUkraineWe are happy to expand boundaries and welcome employees from various countries.",
+    "careersPage": "https://progress-engine.com/"
+  },
+  {
+    "name": "Puppet",
+    "technologies": [
+      "puppet",
+      "ruby",
+      "clojure",
+      "and whole lot more."
+    ],
+    "region": "US, APAC, and EMEA.",
+    "careersPage": "https://puppet.com/company/careers.We"
+  },
+  {
+    "name": "Quaderno",
+    "technologies": [
+      "ruby",
+      "rails",
+      "coffeescript",
+      "memcached",
+      "redis",
+      "elasticsearch",
+      "and mysql."
+    ],
+    "region": "Nowadays our team is based almost exclusively in Europe. Our locations are based on timezones - we have certain timezone restrictions for each role and don’t mind where you are or how much you move around within those timezones.",
+    "careersPage": "https://quaderno.io/jobs/"
+  },
+  {
+    "name": "Quora",
+    "technologies": [
+      "c++",
+      "git",
+      "javascript",
+      "mysql",
+      "python",
+      "redis nginx."
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.quora.com/careers/."
+  },
+  {
+    "name": "Rackspace",
+    "technologies": [
+      "varies on the engineering team and project",
+      "but usually python",
+      "openstack",
+      "orchestration/deployment",
+      "virtualization",
+      "linux/windows",
+      "testing."
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://github.com/rackspace/rackspace_jobs,and"
+  },
+  {
+    "name": "Rainforest QA",
+    "technologies": [
+      "ruby on rails",
+      "react",
+      "elixir",
+      "python",
+      "go",
+      "postgresql",
+      "redis",
+      "linux virtualization",
+      "kubernetes on gcp",
+      "we'll use whatever is the pragmatic choice for a solution",
+      "ci/cd",
+      "merge to master and have your code running in production fully tested in under 20 minutes"
+    ],
+    "region": "Worldwide.",
+    "careersPage": "https://www.rainforestqa.com/jobs/"
+  },
+  {
+    "name": "Reaction Commerce",
+    "technologies": [
+      "front",
+      "end: javascript",
+      "react",
+      "next.js",
+      "eslint",
+      "back",
+      "end: graphql",
+      "mongodb",
+      "meteor",
+      "dev ops: docker",
+      "circleci",
+      "project tools: github",
+      "zenhub",
+      "jira",
+      "design tools: sketch",
+      "zeplin",
+      "work tools: slack",
+      "zoom",
+      "google team drive",
+      "dashlane"
+    ],
+    "region": "Worldwide - The team is distributed around the world, with headquarters in Santa Monica, CA and coworkers in all time zones of the continental United States, Nigeria, Philippines, India and Thailand.",
+    "careersPage": "http://reactioncommerce.com/careers"
+  },
+  {
+    "name": "real.digital",
+    "technologies": [],
+    "region": "Europe  UTC-1 to UTC+2",
+    "careersPage": "https://stackoverflow.com/jobs/companies/realdigitalhttps://www.real-digital.de/karriere/unsere-stellenangebote/"
+  },
+  {
+    "name": "RebelMouse",
+    "technologies": [
+      "python",
+      "javascript",
+      "css",
+      "android and ios development"
+    ],
+    "region": "**Worldwide**",
+    "careersPage": "https://www.linkedin.com/company/rebelmouse/jobs/"
+  },
+  {
+    "name": "Reboot Studio",
+    "technologies": [
+      "react",
+      "react native",
+      "javascript",
+      "typescript",
+      "nestjs",
+      "postgresql",
+      "next.js",
+      "gatsby",
+      "express"
+    ],
+    "region": "Worldide.",
+    "careersPage": "https://reboot.studio/"
+  },
+  {
+    "name": "Recurly",
+    "technologies": [
+      "ruby on rails",
+      "scrum",
+      "saas",
+      "business analysis",
+      "business intelligence",
+      "javascript",
+      "api building"
+    ],
+    "region": "USA",
+    "careersPage": "https://recurly.com/jobs/"
+  },
+  {
+    "name": "Reddit",
+    "technologies": [
+      "python",
+      "go",
+      "java",
+      "javascript",
+      "node.js",
+      "react",
+      "redux"
+    ],
+    "region": "USA",
+    "careersPage": "https://www.redditinc.com/careers"
+  },
+  {
+    "name": "Redox",
+    "technologies": [
+      "node.js",
+      "react",
+      "docker",
+      "kubernetes",
+      "aws",
+      "postgres",
+      "elasticsearch",
+      "vagrant"
+    ],
+    "region": "Currently, US-based only",
+    "careersPage": "https://www.redoxengine.com/company/careers/"
+  },
+  {
+    "name": "Reducer",
+    "technologies": [
+      "vuejs",
+      "javascript",
+      "java",
+      "spring",
+      "aws"
+    ],
+    "region": "UK-based only",
+    "careersPage": "https://reducer.co.uk"
+  },
+  {
+    "name": "reinteractive",
+    "technologies": [
+      "ruby on rails",
+      "salesforce"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://reinteractive.com/careers"
+  },
+  {
+    "name": "RemoteBase",
+    "technologies": [
+      "vuejs",
+      "javascript",
+      "react js",
+      "full stack developers",
+      "ror developers",
+      "frontend developers & backend developers"
+    ],
+    "region": "World Wide",
+    "careersPage": "https://apply.workable.com/remotebase/"
+  },
+  {
+    "name": "Research Square",
+    "technologies": [
+      "our current toolbox includes: php 7",
+      "zend framework 1 and 3",
+      "doctrine orm",
+      "react",
+      "redux",
+      "webpack",
+      "less/sass",
+      "jekyll",
+      "go",
+      "java",
+      "docker",
+      "mysql",
+      "redis",
+      "amazon web services",
+      "circleci",
+      "github",
+      "airbrake"
+    ],
+    "region": "USA",
+    "careersPage": "https://www.researchsquare.com/company/careers."
+  },
+  {
+    "name": "Rocket.Chat",
+    "technologies": [
+      "based on our [open source organization](https://github.com/rocketchat) the company focuses on javascript/typescript for the [server / web",
+      "client](https://github.com/rocketchat/rocket.chat)",
+      "[mobile](https://github.com/rocketchat/rocket.chat.reactnative) and [desktop](https://github.com/rocketchat/rocket.chat.electron).we work with mongodb as the application's database",
+      "golang  for our closed source applications",
+      "kubernets and many more."
+    ],
+    "region": "Worldwide. We have Rocketeers on, almost, every continent.",
+    "careersPage": "https://rocket.chat/jobs"
+  },
+  {
+    "name": "rtCamp Solutions",
+    "technologies": [
+      "html",
+      "css",
+      "and javascript",
+      "php",
+      "wordpress",
+      "nginx"
+    ],
+    "region": "Our Team is spread all across India.",
+    "careersPage": "https://rtcamp.com/careers/"
+  },
+  {
+    "name": "Safari Books Online",
+    "technologies": [
+      "what we mainly focus on are publishing",
+      "conferences",
+      "research",
+      "online services",
+      "online media",
+      "e",
+      "learning",
+      "ebooks",
+      "online training",
+      "programming",
+      "design",
+      "iot",
+      "web",
+      "webops",
+      "security",
+      "futurism",
+      "ai",
+      "bots",
+      "technology",
+      "and economy."
+    ],
+    "region": "Worldwide (Americas, Europe, Asia Pacific)",
+    "careersPage": "https://www.oreilly.com/careers/#positions"
+  },
+  {
+    "name": "Sandhills Development",
+    "technologies": [
+      "wordpress",
+      "php",
+      "sass",
+      "git",
+      "javascript"
+    ],
+    "region": "Team is distributed across the United States, Canada, New Zealand, the United Kingdom, Nigeria, and Germany with the highest concentration in the U.S.",
+    "careersPage": "http://sandhillsdev.com/careers/"
+  },
+  {
+    "name": "Scandit",
+    "technologies": [
+      "c++",
+      "javascript",
+      "python",
+      "cross",
+      "platform frameworks like react native",
+      "flutter",
+      "cordova",
+      "etc.",
+      "gitlab",
+      "docker"
+    ],
+    "region": "Global. We have team members in US, EMEA and APAC. Company-wide meetings are fun! :)",
+    "careersPage": "https://www.scandit.com/careers/"
+  },
+  {
+    "name": "Scopic Software",
+    "technologies": [
+      "web frameworkswe turbocharge our development process with state of the art frameworks such as yii",
+      "django",
+      "symfony",
+      "spring",
+      "java and node.js.",
+      "responsive designat scopic we believe it’s not about the size but what you do with it. with technologies like bootstrap and less",
+      "there’s not a screen size we don’t love.",
+      "native/cross",
+      "platform sdkswe’re not tied down by a single platform; we like to play the field. we use xamarin",
+      "adobeair",
+      "phonegap and qt to cater to different operating systems.",
+      "opengl",
+      "direct3dwe are experts in standard 3d design. we utilize computer vision libraries such as opengl",
+      "opencv and directd3.",
+      "sql and nosql databasesscopic has a foot in both worlds. we use tried and true sql when the fit is right",
+      "but aren’t afraid to delve into newer technologies like hadoop",
+      "mongodb",
+      "dynamo and other applications for big data."
+    ],
+    "region": "AlbaniaArgentinaArmeniaBelarusBrazilBulgariaChileColombiaCroatiaDominican RepublicEcuadorGeorgiaKazakhstanKosovoKyrgyzstanMacedoniaMoldovaPeruPhilippinesPolandPortugalRomaniaRussia (but not Crimea)SerbiaUkraineUzbekistanVietnam",
+    "careersPage": "https://scopicsoftware.com/careers/!"
+  },
+  {
+    "name": "Scrapinghub",
+    "technologies": [
+      "web crawling",
+      "web scraping",
+      "scraping",
+      "scrapy",
+      "and data science"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://apply.workable.com/scrapinghub/"
+  },
+  {
+    "name": "Seaplane\r",
+    "technologies": [
+      "rust",
+      "linux",
+      "aws firecracker",
+      "grpc",
+      "and many others depending on the team."
+    ],
+    "region": "Worldwide.",
+    "careersPage": "https://careers.smartrecruiters.com/SeaplaneIOInc"
+  },
+  {
+    "name": "SecurityScorecard",
+    "technologies": [
+      "securityscorecard offers positions in the following categories: sales",
+      "accounting and finance",
+      "customer success",
+      "tech",
+      "threat intelligence",
+      "and product.  they list the following keywords when describing what their company specialties are: _third party security",
+      "risk management",
+      "vendor risk management",
+      "security ratings",
+      "threat intelligence",
+      "third party risk management",
+      "and cybersecurity_.  some of the keywords in their job descriptions include: devops",
+      "restful apis",
+      "react/redux",
+      "scala",
+      "java",
+      "python",
+      "go",
+      "kafka",
+      "spark",
+      "storm",
+      "apache flink",
+      "databricks toolkit",
+      "cassandra",
+      "aws services including emr",
+      "s3",
+      "redshift",
+      "rds",
+      "software engineer",
+      "data science",
+      "and machine learning"
+    ],
+    "region": "USA, Argentina, Canada  Available to work in timezone UTC -3 to -5",
+    "careersPage": "https://securityscorecard.com/company/careers."
+  },
+  {
+    "name": "Semaphore ",
+    "technologies": [
+      "elixir",
+      "ruby",
+      "go",
+      "docker",
+      "kubernetes"
+    ],
+    "region": "Europe",
+    "careersPage": "https://semaphoreci.com/about/careers"
+  },
+  {
+    "name": "SerpApi",
+    "technologies": [
+      "ruby",
+      "rails",
+      "mongodb",
+      "and react.js"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://serpapi.com/team"
+  },
+  {
+    "name": "Server Density",
+    "technologies": [
+      "python",
+      "mongodb",
+      "nginx",
+      "linux",
+      "react",
+      "backbone",
+      "coffeescript"
+    ],
+    "region": "Europe",
+    "careersPage": "https://www.serverdensity.com/jobs/."
+  },
+  {
+    "name": "Session",
+    "technologies": [
+      "javascript",
+      "react",
+      "next.js",
+      "faunadb",
+      "and many others."
+    ],
+    "region": "We have openings for remote positions **worldwide**.",
+    "careersPage": "https://getsession.com/about,"
+  },
+  {
+    "name": "Shogun",
+    "technologies": [
+      "ruby / rails",
+      "go",
+      "javascript",
+      "react",
+      "node"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://getshogun.com/team"
+  },
+  {
+    "name": "SignEasy",
+    "technologies": [
+      "1. sql2. python3. reactjs4. rest api5. aws ec2",
+      "elasticache",
+      "s36. docker and kubernetes"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://signeasy.com/jobs/"
+  },
+  {
+    "name": "simplabs",
+    "technologies": [
+      "emberjs",
+      "elixir/phoenix",
+      "ruby/rails"
+    ],
+    "region": "We support working remotely from Europe and the Americas.",
+    "careersPage": "https://twitter.com/simplabs."
+  },
+  {
+    "name": "Skillcrush",
+    "technologies": [
+      "wordpress",
+      "ruby",
+      "rails",
+      "javascript",
+      "jquery",
+      "html",
+      "css"
+    ],
+    "region": "Skillcrush is located in the US but we are open to candidates from all around the world.",
+    "careersPage": "https://skillcrush.breezy.hr/"
+  },
+  {
+    "name": "Skyrocket Ventures",
+    "technologies": [
+      "there is no information on what technologies are used."
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.linkedin.com/jobs/view/jr-to-lead-backend-software-engineer-productivity-startup-at-skyrocket-ventures-1959922824/?utm_campaigngoogle_jobs_apply&utm_sourcegoogle_jobs_apply&utm_mediumorganic"
+  },
+  {
+    "name": "Smile.io",
+    "technologies": [
+      "software stack:",
+      "ruby on rails",
+      "ruby",
+      "javascript",
+      "react",
+      "ember.jsinfrastructure:",
+      "aws",
+      "kubernetes",
+      "gruntworks.iodatastores:",
+      "postgres",
+      "redis",
+      "kafka",
+      "elasticsearch"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://smile.io/careers"
+  },
+  {
+    "name": "SmugMug",
+    "technologies": [
+      "aws (since 2005",
+      "literally their first customer)",
+      "php",
+      "javascript",
+      "swift",
+      "java",
+      "c#",
+      "react",
+      "ai (including ml & cv)",
+      "gpu (including cuda/gpgpu)",
+      "linux"
+    ],
+    "region": "Worldwide.",
+    "careersPage": "https://jobs.smugmug.com/-"
+  },
+  {
+    "name": "Socket Supply Co",
+    "technologies": [
+      "javascript",
+      "html",
+      "css",
+      "c++",
+      "objective",
+      "c++ cocoa",
+      "gtk",
+      "win32",
+      "rust",
+      "git",
+      "discord",
+      "irc"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://socketsupply.co/jobs/"
+  },
+  {
+    "name": "Spoqa, Inc.",
+    "technologies": [
+      "python",
+      "swift",
+      "kotlin",
+      "react",
+      "html5",
+      "scss",
+      "solidity"
+    ],
+    "region": "Republic of Korea, Japan",
+    "careersPage": "https://recruit.spoqa.com/"
+  },
+  {
+    "name": "Spreaker ",
+    "technologies": [
+      "in order to provide our service we mantain several application",
+      "using a wide range of technologies",
+      "just to name a few:",
+      "kubernetes",
+      "lambda",
+      "sqs",
+      "postgres",
+      "redis",
+      "prometheus",
+      "php",
+      "javascript",
+      "typescript",
+      "scala",
+      "android",
+      "swift",
+      "kotlin"
+    ],
+    "region": "We are both in US and Europe. Tech team is all located in Europe (more or less between CET-2 and CET +2)",
+    "careersPage": "https://careers.spreaker.com/opportunities/"
+  },
+  {
+    "name": "Spruce",
+    "technologies": [
+      "primary: node.js | react | typescript | graphql | kubernetes | docker | awssecondary: go | python | terraform"
+    ],
+    "region": "Our team is spread-out across North America and Latin America. We're location-agnostic as long as there is 5+ hours of overlap with Central timezone and adequate access to stable, high-speed internet.",
+    "careersPage": "https://getspruce.com/careers/"
+  },
+  {
+    "name": "Stack Exchange",
+    "technologies": [
+      "the tools and technologies used to build the stack exchange network are listed in a questions on [meta.stackexchange.com](http://meta.stackexchange.com/questions/10369/which",
+      "tools",
+      "and",
+      "technologies",
+      "are",
+      "used",
+      "to",
+      "build",
+      "the",
+      "stack",
+      "exchange",
+      "network)"
+    ],
+    "region": "Worldwide - \"Work Where You Want\"",
+    "careersPage": "http://stackexchange.com/work-here"
+  },
+  {
+    "name": "Status",
+    "technologies": [],
+    "region": "Worldwide",
+    "careersPage": "https://status.im/open-positions.html."
+  },
+  {
+    "name": "Stitch Fix",
+    "technologies": [
+      "ruby (rails) and javascript (reactjs)"
+    ],
+    "region": "USA",
+    "careersPage": "https://www.stitchfix.com/careers/jobs!"
+  },
+  {
+    "name": "StormX",
+    "technologies": [
+      "react",
+      "react native",
+      "typescript",
+      "node.js",
+      "microservices",
+      "kubernetes",
+      "docker",
+      "serverless",
+      "craft cms"
+    ],
+    "region": "Worldwide.",
+    "careersPage": "https://stormx.io/careers"
+  },
+  {
+    "name": "StreamNative ",
+    "technologies": [
+      "go",
+      "c#",
+      "java"
+    ],
+    "region": "StreamNative is interested in hiring worldwide.Currently our employees are located in the following countries:* US* China* France* Greece* Ireland",
+    "careersPage": "https://streamnative.io/careers/"
+  },
+  {
+    "name": "StudySoup",
+    "technologies": [],
+    "region": "Both full-time employees and student notetakers are spread worldwide.",
+    "careersPage": "https://studysoup.com/apply"
+  },
+  {
+    "name": "SUSE",
+    "technologies": [
+      "opensuse project",
+      "openstack",
+      "ceph",
+      "opennfv",
+      "openhpc"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://jobs.suse.com"
+  },
+  {
+    "name": "Sutherland CloudSource",
+    "technologies": [
+      "google cloud",
+      "analytics"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.sutherlandglobal.com/careers]"
+  },
+  {
+    "name": "Swimlane",
+    "technologies": [
+      "kubernetes (eks",
+      "aks",
+      "gke)",
+      "node.js",
+      "angular",
+      ".net core",
+      "c#",
+      "aws",
+      "gcp",
+      "azure."
+    ],
+    "region": "USA",
+    "careersPage": "https://swimlane.com/about/careers/"
+  },
+  {
+    "name": "Tag1 Consulting",
+    "technologies": [
+      "drupal",
+      "backdrop",
+      "wordpress; frameworks such as symfony",
+      "laravel",
+      "django",
+      "flask; and have worked on projects in many languages including c",
+      "php",
+      "python and ruby."
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.linkedin.com/company/tag1consulting/jobs/"
+  },
+  {
+    "name": "Taplytics",
+    "technologies": [
+      "node.js",
+      "go",
+      "python",
+      "mongodb",
+      "redis",
+      "kafka",
+      "postgresql",
+      "tensorflow",
+      "elasticsearch",
+      "feature flagging",
+      "a/b testing",
+      "real",
+      "time analytics",
+      "& marketing automation"
+    ],
+    "region": "* USA* Canada",
+    "careersPage": "https://jobs.lever.co/taplytics"
+  },
+  {
+    "name": "TatvaSoft",
+    "technologies": [
+      "java",
+      "php",
+      ".net",
+      "sql server",
+      "sharepoint",
+      "android",
+      "angular",
+      "ios",
+      "ruby",
+      "nodejs",
+      "reactjs",
+      "react native",
+      "mysql",
+      "mongodb",
+      "aws",
+      "laravel",
+      "vue",
+      "xamarin",
+      "magento",
+      "shopify"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.tatvasoft.com/career"
+  },
+  {
+    "name": "Teamflow",
+    "technologies": [
+      "the backend is written on node.js using typescript. the frontend is a mix of pixijs and react",
+      "all written in typescript. webrtc is a fundamental part of the application",
+      "if you have experience with that it is a",
+      "huge",
+      "plus. the primary cloud provider we use is gcp. almost everything is in a single monorepo."
+    ],
+    "region": "Anywhere in the world if you can work most of your working hours within UTC-8 and UTC+0",
+    "careersPage": "https://teamflowhq.notion.site/Teamflow-Job-Board-225515ad0f824ef8920e9a4db7c7abbf"
+  },
+  {
+    "name": "TeamUltra - an Elite ServiceNow Partner",
+    "technologies": [
+      "javascript",
+      "angularjs",
+      "bootstrap and the power of the nowplatform..."
+    ],
+    "region": "UK",
+    "careersPage": "https://www.teamultra.net/contact-us/careers/"
+  },
+  {
+    "name": "Telestax Inc.",
+    "technologies": [
+      "backend on java stack",
+      "with a mix of spring",
+      "akka and j2ee across the various projects. frontend on angular",
+      "bootstrap",
+      "node.js."
+    ],
+    "region": "Worldwide.",
+    "careersPage": "https://telestax.com/careers/"
+  },
+  {
+    "name": "Test Double",
+    "technologies": [
+      "test",
+      "driven development",
+      "software delivery",
+      "mentoring and training",
+      "ruby on rails",
+      "agile",
+      "javascript",
+      "node.js",
+      "react",
+      "ember",
+      "vue",
+      "angular",
+      "elixir",
+      "and clojure"
+    ],
+    "region": "North America",
+    "careersPage": "https://testdouble.recruiterbox.com/"
+  },
+  {
+    "name": "The Ghost Foundation",
+    "technologies": [
+      "ember.js",
+      "node.js",
+      "grunt"
+    ],
+    "region": "Worldwide (See above)",
+    "careersPage": "https://ghost.workable.com"
+  },
+  {
+    "name": "The Publisher Desk",
+    "technologies": [
+      "our specialties are audience development",
+      "digital revenues",
+      "digital strategy",
+      "ad tech",
+      "advertising sales",
+      "growth",
+      "programmatic",
+      "publishers",
+      "websites",
+      "monetisation",
+      "adops",
+      "dfp",
+      "dmp",
+      "data",
+      "google ad manager",
+      "header bidding",
+      "prebid",
+      "adx",
+      "ssp",
+      "and video"
+    ],
+    "region": "America",
+    "careersPage": "https://www.linkedin.com/company/publisher-desk/jobs/"
+  },
+  {
+    "name": "The Wirecutter",
+    "technologies": [],
+    "region": "United States.",
+    "careersPage": "https://thewirecutter.com/jobs/"
+  },
+  {
+    "name": "Thinkful",
+    "technologies": [
+      "react",
+      "angular",
+      "vue.js",
+      "python"
+    ],
+    "region": "Worldwide! The US region has the majority of employees, but we have a presence in Europe and Latin America as well.",
+    "careersPage": "https://www.thinkful.com/about/careers/"
+  },
+  {
+    "name": "Third Iron",
+    "technologies": [
+      "nodejs",
+      "postgres",
+      "couchdb",
+      "typescript",
+      "aws",
+      "heroku",
+      "elasticsearch for web front",
+      "end and back",
+      "end",
+      "swift + obj",
+      "c for our native ios app",
+      "and java for our native android app",
+      "[see our entire stack on stackshare](https://stackshare.io/third",
+      "iron/third",
+      "iron)"
+    ],
+    "region": "US-based company with employees in the US and UK - currently interested in future teammates with US work authorization",
+    "careersPage": "https://thirdiron.com/careers/If"
+  },
+  {
+    "name": "TimeSpot",
+    "technologies": [
+      "react.js",
+      "django",
+      "postgres",
+      "docker",
+      "fabric."
+    ],
+    "region": "Open to worldwide employees provided that they can do some timezoneoverlap with US business hours.",
+    "careersPage": "https://timespothq.com/careers/"
+  },
+  {
+    "name": "Toast",
+    "technologies": [
+      "backend services following microservice architecture in java 8 and dropwizard",
+      "frontend development in react",
+      "angular",
+      "and es6",
+      "android application development written in java and kotlin"
+    ],
+    "region": "US-based company with employees in the US and Ireland. Headquarted in Boston, MA.",
+    "careersPage": "https://careers.toasttab.com/"
+  },
+  {
+    "name": "Toptal",
+    "technologies": [
+      "ror",
+      "javascript",
+      "coffeescript",
+      "sass",
+      "haml",
+      "slim",
+      "underscore.js",
+      "backbone.js",
+      "react.js",
+      "google closure",
+      "cucumber",
+      "waiter",
+      "phantomjs"
+    ],
+    "region": "Toptal employees are spread throughout the world.",
+    "careersPage": "https://www.toptal.com/careers"
+  },
+  {
+    "name": "TractionBoard",
+    "technologies": [
+      "tractionboard uses 16 technology products and services including html5",
+      "google analytics",
+      "and jquery",
+      "acording to g2 stack.tractionboard is actively using 4 technologies for its website",
+      "according to builtwith. these include spf",
+      "google apps for business",
+      "and oss cdn."
+    ],
+    "region": "USA",
+    "careersPage": "https://tractionboard.io/"
+  },
+  {
+    "name": "Transition Technologies - Advanced Solutions",
+    "technologies": [],
+    "region": "Poland",
+    "careersPage": "https://kariera.tt.com.pl/"
+  },
+  {
+    "name": "Travis CI",
+    "technologies": [
+      "ruby",
+      "javascript",
+      "api",
+      "aws and more"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.linkedin.com/company/travis-ci/jobs/"
+  },
+  {
+    "name": "Treehouse",
+    "technologies": [],
+    "region": "United States",
+    "careersPage": "https://teamtreehouse.com/jobs"
+  },
+  {
+    "name": "Truelogic",
+    "technologies": [
+      "react",
+      "node",
+      ".net",
+      "ruby rails and java"
+    ],
+    "region": "Latin America",
+    "careersPage": "https://boards.greenhouse.io/truelogic"
+  },
+  {
+    "name": "Tuft & Needle",
+    "technologies": [
+      "our stack consists primarily of ruby",
+      "javascript",
+      "rails",
+      "react.js",
+      "postgresql",
+      "and is deployed to heroku",
+      "s3",
+      "and now.we use rspec and cypress for testing",
+      "circleci for continuous integration",
+      "and believe strongly in continuous deployment.refactor without fear and ship daily! we also believe in leveraging quality apis and tools."
+    ],
+    "region": "U.S. citizens, non-citizens who are nationals of the U.S., or people who have been admitted to the U.S. for permanent residence and hold a valid green card.",
+    "careersPage": "https://careers.tn.com/"
+  },
+  {
+    "name": "Udacity",
+    "technologies": [
+      "much like",
+      "where",
+      "we work",
+      "we believe",
+      "how",
+      "we work should be dictated by productivity and fit for the task at hand. our team uses a number of technologies (react/graphql",
+      "ruby on rails",
+      "go",
+      "scala",
+      "python",
+      "angular",
+      "java and objective",
+      "c to name a few)",
+      "but you're welcome to use whatever language/framework/dev environment will let you do your best work."
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.udacity.com/jobs[Video"
+  },
+  {
+    "name": "Uncapped",
+    "technologies": [
+      "backend:",
+      "java",
+      "spring boot/cloud",
+      "postgresql",
+      "microservicesfrontend:",
+      "typescript",
+      "reactinfrastructure:",
+      "docker",
+      "kubernetes (gke)",
+      "gcp",
+      "terraformother tools",
+      "visual studio code",
+      "intellij idea",
+      "slack",
+      "gitlab",
+      "fluxcd",
+      "jira",
+      "figma"
+    ],
+    "region": "Europe, USA",
+    "careersPage": "https://www.weareuncapped.com/careers"
+  },
+  {
+    "name": "Upwork Pro",
+    "technologies": [
+      "html",
+      "css",
+      "javascript",
+      "android",
+      "reactjs",
+      "react",
+      "native",
+      "ios",
+      "ruby etc"
+    ],
+    "region": "North America",
+    "careersPage": "https://careers.upwork.com/jobs/search"
+  },
+  {
+    "name": "USAA",
+    "technologies": [
+      "java",
+      "javascript",
+      "spring",
+      "javaee",
+      "react",
+      "git"
+    ],
+    "region": "USA",
+    "careersPage": "https://www.usaajobs.com/"
+  },
+  {
+    "name": "Ushahidi",
+    "technologies": [
+      "php",
+      "javascript",
+      "angularjs",
+      "laravel",
+      "nginx",
+      "mysql",
+      "ansible",
+      "docker",
+      "python",
+      "rabbitmq."
+    ],
+    "region": "Worldwide - we have team members in many different countries and timezones.",
+    "careersPage": "https://ushahidi.workable.com/"
+  },
+  {
+    "name": "Valimail",
+    "technologies": [
+      "golangruby on railscirclecikuberneteshotwire/turbo/stimulustailwindcss"
+    ],
+    "region": "USA",
+    "careersPage": "https://www.valimail.com/careers/"
+  },
+  {
+    "name": "Varnish Software",
+    "technologies": [
+      "linuxgolangpythoncircleci"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.varnish-software.com/careers/"
+  },
+  {
+    "name": "Vercel",
+    "technologies": [
+      "react.js",
+      "next.js."
+    ],
+    "region": "Worldwide.",
+    "careersPage": "https://vercel.com/careers"
+  },
+  {
+    "name": "Viperdev",
+    "technologies": [
+      "php",
+      "laravel",
+      "javascript."
+    ],
+    "region": "Worldwide.",
+    "careersPage": "https://viperdev.io/en/jobs/"
+  },
+  {
+    "name": "Vox Media (Product Team)",
+    "technologies": [
+      "adobe creative suite",
+      "sketch",
+      "google suite",
+      "dropbox",
+      "github",
+      "asana",
+      "jira"
+    ],
+    "region": "USA, UK",
+    "careersPage": "https://www.voxmedia.com/pages/careers-jobs"
+  },
+  {
+    "name": "VSHN AG",
+    "technologies": [
+      "kubernetes",
+      "openshift",
+      "gitlab",
+      "puppet",
+      "go",
+      "python",
+      "linux"
+    ],
+    "region": "Switzerland",
+    "careersPage": "https://vshn.ch/jobs"
+  },
+  {
+    "name": "WalletHub",
+    "technologies": [
+      "java",
+      "spring framework",
+      "mysql",
+      "python"
+    ],
+    "region": "The company is based in Washington, DC USA.",
+    "careersPage": "https://wallethub.com/jobs/Ready"
+  },
+  {
+    "name": "WebDevStudios",
+    "technologies": [
+      "wordpress"
+    ],
+    "region": "**USA**",
+    "careersPage": "https://webdevstudios.com/careers/"
+  },
+  {
+    "name": "Webikon",
+    "technologies": [
+      "wordpress",
+      "php",
+      "sass",
+      "react",
+      "git",
+      "vagrant/docker",
+      "nginx",
+      "redis/memcache",
+      "solr"
+    ],
+    "region": "We are company from Slovakia (EU).",
+    "careersPage": "http://www.webikon.sk/pracovne-pozicie/"
+  },
+  {
+    "name": "Wells Fargo",
+    "technologies": [
+      "react js",
+      "angular js",
+      "node.js",
+      "css",
+      "html 5",
+      "java",
+      "sql",
+      ".net"
+    ],
+    "region": "Worldwide Company.",
+    "careersPage": "https://www.wellsfargo.com/about/careers/"
+  },
+  {
+    "name": "wemake.services",
+    "technologies": [
+      "our main stack is `django` + `vue`. we also love `elixir`.[here's](https://stackshare.io/kotenkov_a/wemake",
+      "services) our detailed stack."
+    ],
+    "region": "Our headquarter is in Moscow, Russia.",
+    "careersPage": "https://wemake.services/meta/job-application2."
+  },
+  {
+    "name": "Whitespectre",
+    "technologies": [],
+    "region": "Worldwide Company.",
+    "careersPage": "https://www.glassdoor.com/Reviews/Whitespectre-Reviews-E1575846.htm."
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "technologies": [
+      "php",
+      "varnish",
+      "nginx",
+      "hadoop",
+      "r",
+      "java",
+      "and bayesian analysis",
+      "mariadb",
+      "mysql",
+      "nosql",
+      "puppet"
+    ],
+    "region": "From the Work with us [FAQ](https://wikimediafoundation.org/wiki/Work_with_us#Frequently_asked_questions)[Can international applicants apply for positions with the Wikimedia Foundation?](https://wikimediafoundation.org/wiki/Work_with_us#Can_international_applicants_apply_for_positions_with_the_Wikimedia_Foundation.3F)We are a global organization and welcome international applicants for positions with the Wikimedia Foundation. Please see our [“Pluralism, internationalism, and diversity” policy](https://wikimediafoundation.org/wiki/Pluralism,_internationalism,_and_diversity_policy).",
+    "careersPage": "https://wikimediafoundation.org/wiki/Work_with_us#Wikimedia_Careers"
+  },
+  {
+    "name": "Wizeline",
+    "technologies": [
+      ".net",
+      "android",
+      "nodejs",
+      "php",
+      "ios",
+      "go",
+      "reactjs",
+      "python",
+      "react native",
+      "java",
+      "go"
+    ],
+    "region": "Remote Worldwide and On-Site positions in any of the offices.",
+    "careersPage": "https://www.wizeline.com/careers/open-roles/"
+  },
+  {
+    "name": "Wombat Security Technologies",
+    "technologies": [],
+    "region": "Offices in USA (Pittsburgh and Denver) and London.",
+    "careersPage": "https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/6/refreshFacet/318c8bb6f553100021d223d9780d30be"
+  },
+  {
+    "name": "X-Team",
+    "technologies": [
+      "taken from their [fb](https://www.facebook.com/x.team/) page:_\"x",
+      "teamers work with just about every at least semi",
+      "mainstream stack. generally speaking",
+      "a majority of the projects we’re working on have react as the frontend",
+      "with the backend running on node",
+      "or to a lesser degree laravel or symfony. of course",
+      "there have also been projects with vue",
+      "angular",
+      "and even a rare elm frontend. on the backend",
+      "golang",
+      "java",
+      "and python also aren’t unheard of. android and ios are also in the mix",
+      "both natively and through cross",
+      "platform tech like xamarin and react native. and who could get anything done in 2018 without docker and aws?\"_"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://x-team.com/join-application/"
+  },
+  {
+    "name": "XP Inc.",
+    "technologies": [
+      ".net",
+      "swift",
+      "kotlin/java",
+      "azure",
+      "kubernetes",
+      "etc"
+    ],
+    "region": "Brazil, USA, UK, Switzerland",
+    "careersPage": "https://www.xpi.com.br/carreiras/"
+  },
+  {
+    "name": "YAZIO",
+    "technologies": [
+      "backend: symfony 5",
+      "aws",
+      "apache spark",
+      "elastic",
+      "redis etc.frontend: symfony 5",
+      "react",
+      "javascriptdevops: gitlab"
+    ],
+    "region": "Europe",
+    "careersPage": "https://www.yazio.com/en/jobs"
+  },
+  {
+    "name": "Yonder",
+    "technologies": [
+      "technology not specified."
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://www.yonder.io/contact"
+  },
+  {
+    "name": "You Need A Budget",
+    "technologies": [
+      "ember",
+      "postgresql",
+      "ruby",
+      "typescript"
+    ],
+    "region": "**Worldwide**",
+    "careersPage": "https://www.youneedabudget.com/careers/"
+  },
+  {
+    "name": "Zapier",
+    "technologies": [
+      "backend:",
+      "python",
+      "django",
+      "celery",
+      "node.jsfrontend:",
+      "javascript",
+      "reactinfrastructure:",
+      "amazon web services",
+      "aws lambda",
+      "nginx",
+      "gunicorn",
+      "ansible",
+      "packerdatastores:",
+      "mysql",
+      "redis",
+      "memcached",
+      "zookeeperqueues:",
+      "rabbitmq",
+      "kafka"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://zapier.com/jobs/"
+  },
+  {
+    "name": "Zignaly",
+    "technologies": [
+      "backend:",
+      "php",
+      "node.jsfrontend:",
+      "javascript",
+      "reactinfrastructure:",
+      "digital ocean",
+      "leaseweb",
+      "amazon web services",
+      "aws lambda",
+      "nginx",
+      "ansibledatastores:",
+      "redis",
+      "mongo",
+      "postgresqlqueues:",
+      "rabbitmq",
+      "redis"
+    ],
+    "region": "Worldwide",
+    "careersPage": "https://discord.com/invite/r5qRXDJ"
+  },
+  {
+    "name": "Zup ",
+    "technologies": [
+      "kotlin/java",
+      "spring",
+      "kubernetes",
+      "go",
+      "swift"
+    ],
+    "region": "Brazil.",
+    "careersPage": "https://boards.greenhouse.io/zupinnovation"
+  }
+]
